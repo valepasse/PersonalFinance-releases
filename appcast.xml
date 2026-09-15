@@ -3,22 +3,22 @@
     <channel>
         <title>PersonalFinance</title>
         <item>
-            <title>0.6.1</title>
-            <pubDate>Tue, 15 Sep 2026 22:43:26 +0200</pubDate>
-            <sparkle:version>0.6.1</sparkle:version>
-            <sparkle:shortVersionString>0.6.1</sparkle:shortVersionString>
+            <title>0.7.0</title>
+            <pubDate>Tue, 15 Sep 2026 23:06:49 +0200</pubDate>
+            <sparkle:version>0.7.0</sparkle:version>
+            <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<!doctype html><meta charset=utf-8><body style='font: 13px -apple-system'><h2>PersonalFinance 0.6.1</h2>
+            <description><![CDATA[<!doctype html><meta charset=utf-8><body style='font: 13px -apple-system'><h2>PersonalFinance 0.7.0</h2>
 <p><strong>English</strong></p>
 <ul>
-<li>Mac: on smaller screens, opening an investment account no longer pushes the top of the window off the screen.</li>
+<li>Automatic prices for ETFs and stocks: give a holding its symbol (e.g. MWRD.MI for Milan) or its ISIN, and the units in its trades; Update Values then looks up the price online and fills in the value, showing where the price comes from and its date. You still check and save. Bonds stay manual.</li>
 </ul>
 <p><strong>Italiano</strong></p>
 <ul>
-<li>Mac: sugli schermi più piccoli, aprire un conto investimenti non spinge più la parte alta della finestra fuori dallo schermo.</li>
+<li>Prezzi automatici per ETF e azioni: indica per un titolo il simbolo (es. MWRD.MI per Milano) o l&#x27;ISIN, e le quote nelle sue operazioni; Aggiorna controvalori cerca il prezzo online e compila il controvalore, mostrando da dove arriva il prezzo e di che giorno è. Controlli e salvi sempre tu. Le obbligazioni restano manuali.</li>
 </ul></body>]]></description>
-            <enclosure url="https://github.com/valepasse/PersonalFinance-releases/releases/download/v0.6.1/PersonalFinance-0.6.1-macOS.zip" length="5927397" type="application/octet-stream" sparkle:edSignature="RzkdO8ZFEd06G8xxG/y+JIYB+6Mkl+drOwuiGVXzHdX8Cg+eyCTHzNOB/xKm8pCtSi+293ZCY8ZPJGSa6lOqBw=="/>
+            <enclosure url="https://github.com/valepasse/PersonalFinance-releases/releases/download/v0.7.0/PersonalFinance-0.7.0-macOS.zip" length="6317046" type="application/octet-stream" sparkle:edSignature="2QabipS1xhG1/Tc96vKMqik+zSnA5XWox/YGmEYZL/0y2CyozHhnEdAReGb1XbsAtxcl1FGJpWCc5H9a5tyjCQ=="/>
         </item>
     </channel>
 </rss>
