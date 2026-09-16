@@ -3,22 +3,38 @@
     <channel>
         <title>PersonalFinance</title>
         <item>
-            <title>0.7.0</title>
-            <pubDate>Tue, 15 Sep 2026 23:06:49 +0200</pubDate>
-            <sparkle:version>0.7.0</sparkle:version>
-            <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
+            <title>0.8.0</title>
+            <pubDate>Wed, 16 Sep 2026 10:32:20 +0200</pubDate>
+            <sparkle:version>0.8.0</sparkle:version>
+            <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<!doctype html><meta charset=utf-8><body style='font: 13px -apple-system'><h2>PersonalFinance 0.7.0</h2>
+            <description><![CDATA[<!doctype html><meta charset=utf-8><body style='font: 13px -apple-system'><h2>PersonalFinance 0.8.0</h2>
 <p><strong>English</strong></p>
 <ul>
-<li>Automatic prices for ETFs and stocks: give a holding its symbol (e.g. MWRD.MI for Milan) or its ISIN, and the units in its trades; Update Values then looks up the price online and fills in the value, showing where the price comes from and its date. You still check and save. Bonds stay manual.</li>
+<li>The categories page now says which categories carry the money: for each one, the movements, a bar of its share and the total over the last 12 months. Families open and close, and the actions that were only behind a right click are on a button on the row.</li>
+<li>Put your accounts in the order you want: drag one in the sidebar, or use Move Up and Move Down in its menu.</li>
+<li>Add a category from the transaction you&#x27;re writing, without cancelling it to go to Categories.</li>
+<li>Opened from an investment account or a pension fund, the transaction form starts on a transfer into it: buys and sells live on the account&#x27;s own tab.</li>
+<li>16 more icons — eating out, fuel, clothes, sport, pets, children, tickets, rent, insurance, subscriptions and more — for 54 in all.</li>
+<li>Colors that can actually be read: the icons&#x27; badges, the chart marks and the colored amounts now meet the contrast the accessibility guidelines ask for, in light, in dark and with Increase Contrast.</li>
+<li>Amounts are written the way Wallet writes them: an expense without a minus, an income with a &quot;+&quot;, a transfer signed from the account&#x27;s side.</li>
+<li>The transaction filters are behind one button, which fills in when something is filtered.</li>
+<li>Fixed: pointing at a chart in the summary, the forecast or a holding&#x27;s history showed an empty dark panel instead of the figures.</li>
 </ul>
 <p><strong>Italiano</strong></p>
 <ul>
-<li>Prezzi automatici per ETF e azioni: indica per un titolo il simbolo (es. MWRD.MI per Milano) o l&#x27;ISIN, e le quote nelle sue operazioni; Aggiorna controvalori cerca il prezzo online e compila il controvalore, mostrando da dove arriva il prezzo e di che giorno è. Controlli e salvi sempre tu. Le obbligazioni restano manuali.</li>
+<li>La pagina delle categorie dice finalmente quali categorie pesano: per ognuna i movimenti, una barra della sua quota e il totale degli ultimi 12 mesi. Le famiglie si aprono e si chiudono, e le azioni che stavano solo dietro il clic destro sono su un pulsante della riga.</li>
+<li>Metti i conti nell&#x27;ordine che vuoi: trascina una riga nella barra laterale, oppure usa Sposta su e Sposta giù dal suo menu.</li>
+<li>Aggiungi una categoria dal movimento che stai scrivendo, senza annullarlo per andare in Categorie.</li>
+<li>Aperto da un conto investimenti o da un fondo pensione, il modulo del movimento parte da un trasferimento verso quel conto: acquisti e vendite stanno nella scheda del conto.</li>
+<li>16 icone in più — ristorante, carburante, abbigliamento, sport, animali, figli, biglietti, affitto, assicurazione, abbonamenti e altre — per un totale di 54.</li>
+<li>Colori che si leggono davvero: i badge delle icone, i grafici e gli importi colorati rispettano il contrasto richiesto dalle linee guida di accessibilità, in chiaro, in scuro e con Aumenta contrasto.</li>
+<li>Gli importi sono scritti come li scrive Wallet: una spesa senza il meno, un&#x27;entrata con il &quot;+&quot;, un trasferimento con il segno visto dal conto.</li>
+<li>I filtri dei movimenti stanno dietro un solo pulsante, che si riempie quando un filtro è attivo.</li>
+<li>Corretto: passando il puntatore sui grafici del riepilogo, delle previsioni e dello storico di un titolo compariva un pannellino scuro vuoto al posto dei valori.</li>
 </ul></body>]]></description>
-            <enclosure url="https://github.com/valepasse/PersonalFinance-releases/releases/download/v0.7.0/PersonalFinance-0.7.0-macOS.zip" length="6317046" type="application/octet-stream" sparkle:edSignature="2QabipS1xhG1/Tc96vKMqik+zSnA5XWox/YGmEYZL/0y2CyozHhnEdAReGb1XbsAtxcl1FGJpWCc5H9a5tyjCQ=="/>
+            <enclosure url="https://github.com/valepasse/PersonalFinance-releases/releases/download/v0.8.0/PersonalFinance-0.8.0-macOS.zip" length="6400291" type="application/octet-stream" sparkle:edSignature="Xo+49+Qg7vD35o5sKsIQuoC7B5Gc4xApDaXh6Ja8Bmh2dH2SUFDDnf4XTdIYrXhCA2LJZbP5xJTFlnTjZESJCg=="/>
         </item>
     </channel>
 </rss>
