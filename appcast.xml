@@ -3,38 +3,37 @@
     <channel>
         <title>PersonalFinance</title>
         <item>
-            <title>0.8.0</title>
-            <pubDate>Wed, 16 Sep 2026 10:32:20 +0200</pubDate>
-            <sparkle:version>0.8.0</sparkle:version>
-            <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<!doctype html><meta charset=utf-8><body style='font: 13px -apple-system'><h2>PersonalFinance 0.8.0</h2>
+            <title>0.9.0</title>
+            <pubDate>Wed, 16 Sep 2026 17:44:19 +0200</pubDate>
+            <sparkle:version>0.9.0</sparkle:version>
+            <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<!doctype html><meta charset=utf-8><body style='font: 13px -apple-system'><h2>PersonalFinance 0.9.0</h2>
 <p><strong>English</strong></p>
 <ul>
-<li>The categories page now says which categories carry the money: for each one, the movements, a bar of its share and the total over the last 12 months. Families open and close, and the actions that were only behind a right click are on a button on the row.</li>
-<li>Put your accounts in the order you want: drag one in the sidebar, or use Move Up and Move Down in its menu.</li>
-<li>Add a category from the transaction you&#x27;re writing, without cancelling it to go to Categories.</li>
-<li>Opened from an investment account or a pension fund, the transaction form starts on a transfer into it: buys and sells live on the account&#x27;s own tab.</li>
-<li>16 more icons — eating out, fuel, clothes, sport, pets, children, tickets, rent, insurance, subscriptions and more — for 54 in all.</li>
-<li>Colors that can actually be read: the icons&#x27; badges, the chart marks and the colored amounts now meet the contrast the accessibility guidelines ask for, in light, in dark and with Increase Contrast.</li>
-<li>Amounts are written the way Wallet writes them: an expense without a minus, an income with a &quot;+&quot;, a transfer signed from the account&#x27;s side.</li>
-<li>The transaction filters are behind one button, which fills in when something is filtered.</li>
-<li>Fixed: pointing at a chart in the summary, the forecast or a holding&#x27;s history showed an empty dark panel instead of the figures.</li>
+<li>Transactions are a table again, filling the window: date, description, category, account and amount. Click a header to sort by it, again to reverse; sorted by date they stay grouped by month. On the Mac the columns can be resized, moved and hidden.</li>
+<li>A filtered or searched list shows its total next to the number of transactions (Mac).</li>
+<li>12 more icons — mobile phone, personal, pharmacy, doctor, mental health, plants, scooter, gas, electricity, building, drinks, smoking — for 66 in all.</li>
+<li>A subcategory always takes its family&#x27;s color, whatever its own icon (Mac).</li>
+<li>Short share bars in Categories and Summary keep their round ends (Mac).</li>
+<li>Apple Intelligence (Mac): for a note you&#x27;ve never used before, the transaction form suggests a category, only when it&#x27;s confident. It can be turned off in Settings › Privacy, and it runs on your Mac: nothing is sent anywhere.</li>
+<li>Ask about your transactions in words (Mac, Apple Intelligence): &quot;how much did I spend at the supermarket in August?&quot; shows the matching transactions and their total, worked out by the app, not by the model.</li>
+<li>The Mac app follows Apple&#x27;s guidelines more closely: Settings in tabs (Backup, Sync, Privacy), the pages in the View menu with ⌘1–⌘4, empty pages with the button they need next, the account&#x27;s currency picked from a list, charts described to VoiceOver and Audio Graph, and categories that rename with a double-click and delete with the Delete key.</li>
+<li>The Mac app now requires macOS 27.</li>
 </ul>
 <p><strong>Italiano</strong></p>
 <ul>
-<li>La pagina delle categorie dice finalmente quali categorie pesano: per ognuna i movimenti, una barra della sua quota e il totale degli ultimi 12 mesi. Le famiglie si aprono e si chiudono, e le azioni che stavano solo dietro il clic destro sono su un pulsante della riga.</li>
-<li>Metti i conti nell&#x27;ordine che vuoi: trascina una riga nella barra laterale, oppure usa Sposta su e Sposta giù dal suo menu.</li>
-<li>Aggiungi una categoria dal movimento che stai scrivendo, senza annullarlo per andare in Categorie.</li>
-<li>Aperto da un conto investimenti o da un fondo pensione, il modulo del movimento parte da un trasferimento verso quel conto: acquisti e vendite stanno nella scheda del conto.</li>
-<li>16 icone in più — ristorante, carburante, abbigliamento, sport, animali, figli, biglietti, affitto, assicurazione, abbonamenti e altre — per un totale di 54.</li>
-<li>Colori che si leggono davvero: i badge delle icone, i grafici e gli importi colorati rispettano il contrasto richiesto dalle linee guida di accessibilità, in chiaro, in scuro e con Aumenta contrasto.</li>
-<li>Gli importi sono scritti come li scrive Wallet: una spesa senza il meno, un&#x27;entrata con il &quot;+&quot;, un trasferimento con il segno visto dal conto.</li>
-<li>I filtri dei movimenti stanno dietro un solo pulsante, che si riempie quando un filtro è attivo.</li>
-<li>Corretto: passando il puntatore sui grafici del riepilogo, delle previsioni e dello storico di un titolo compariva un pannellino scuro vuoto al posto dei valori.</li>
+<li>I movimenti tornano in una tabella che riempie la finestra: data, descrizione, categoria, conto e importo. Fai clic su un&#x27;intestazione per ordinare, di nuovo per invertire; ordinati per data restano raggruppati per mese. Sul Mac le colonne si possono allargare, spostare e nascondere.</li>
+<li>Un elenco filtrato o cercato mostra il totale accanto al numero di movimenti (Mac).</li>
+<li>12 icone in più — cellulare, personale, farmacia, medico, salute mentale, piante, scooter, gas, luce, condominio, aperitivi, fumo — per un totale di 66.</li>
+<li>Una sottocategoria prende sempre il colore della sua famiglia, qualunque sia la sua icona (Mac).</li>
+<li>Le barre corte in Categorie e Riepilogo restano arrotondate alle estremità (Mac).</li>
+<li>Apple Intelligence (Mac): per una nota mai usata prima il modulo del movimento propone una categoria, solo quando è sicuro. Si può disattivare in Impostazioni › Privacy, e funziona sul Mac: non viene inviato niente.</li>
+<li>Chiedi ai tuoi movimenti a parole (Mac, Apple Intelligence): &quot;quanto ho speso al supermercato ad agosto?&quot; mostra i movimenti che corrispondono e il loro totale, calcolato dall&#x27;app e non dal modello.</li>
+<li>L&#x27;app per Mac segue più da vicino le linee guida Apple: Impostazioni a schede (Backup, Sincronizzazione, Privacy), le pagine nel menu Vista con ⌘1–⌘4, pagine vuote con il pulsante che serve, la valuta del conto scelta da un elenco, grafici descritti a VoiceOver e ai grafici audio, categorie che si rinominano con un doppio clic e si eliminano con il tasto Elimina.</li>
+<li>L&#x27;app per Mac ora richiede macOS 27.</li>
 </ul></body>]]></description>
-            <enclosure url="https://github.com/valepasse/PersonalFinance-releases/releases/download/v0.8.0/PersonalFinance-0.8.0-macOS.zip" length="6400291" type="application/octet-stream" sparkle:edSignature="Xo+49+Qg7vD35o5sKsIQuoC7B5Gc4xApDaXh6Ja8Bmh2dH2SUFDDnf4XTdIYrXhCA2LJZbP5xJTFlnTjZESJCg=="/>
+            <enclosure url="https://github.com/valepasse/PersonalFinance-releases/releases/download/v0.9.0/PersonalFinance-0.9.0-macOS.zip" length="6594831" type="application/octet-stream" sparkle:edSignature="UzE8H2YcxwlRbGfoNUxJjdwFmmcRa0PXcURd2VAplrHy0cBLwmu6EGqZANYyyVrQq3qw6iGjlgcYSe0sWvk5Bg=="/>
         </item>
     </channel>
 </rss>
