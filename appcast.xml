@@ -3,33 +3,31 @@
     <channel>
         <title>PersonalFinance</title>
         <item>
-            <title>0.10.0</title>
-            <pubDate>Thu, 17 Sep 2026 09:51:33 +0200</pubDate>
-            <sparkle:version>0.10.0</sparkle:version>
-            <sparkle:shortVersionString>0.10.0</sparkle:shortVersionString>
+            <title>0.11.0</title>
+            <pubDate>Thu, 17 Sep 2026 12:35:09 +0200</pubDate>
+            <sparkle:version>0.11.0</sparkle:version>
+            <sparkle:shortVersionString>0.11.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<!doctype html><meta charset=utf-8><body style='font: 13px -apple-system'><h2>PersonalFinance 0.10.0</h2>
+            <description><![CDATA[<!doctype html><meta charset=utf-8><body style='font: 13px -apple-system'><h2>PersonalFinance 0.11.0</h2>
 <p><strong>English</strong></p>
 <ul>
-<li>Convert a holding into another one, for an ETF merged into another or a fund switch: from the holding&#x27;s menu, pick a new or existing holding, the day and the units received. The money invested and the latest value move over without touching the account&#x27;s cash, so the gain still counts from the original purchases, and the old holding is archived. Deleting the conversion restores it.</li>
-<li>The net worth chart no longer jumps in the month a value is recorded: between two values of a holding, it estimates a steady change. A holding&#x27;s history now starts on its first purchase. Account totals always show the latest real value.</li>
-<li>Each holding has an asset class: equity, bonds, money market, commodities, or balanced with its share in equity. The app suggests it from the holding&#x27;s kind. The asset allocation can be shown by instrument or by asset class, with balanced holdings split between equity and bonds.</li>
-<li>Pension funds update the way the fund shows them: the value, and what was paid in by you, by your employer and as severance pay (TFR), with the total worked out. Entering just the total still works. Money from before you started using the app is shared out among the three parts.</li>
-<li>Severance pay (TFR) is a kind of contribution of its own. Employer contributions recorded before this version keep counting as the employer&#x27;s.</li>
-<li>Recording values on a past day no longer fills in today&#x27;s prices: the fields start from what each holding was worth that day.</li>
-<li>A holding added with its opening position records its &quot;Value today&quot; today, even when the purchase date is older.</li>
+<li>A pension fund&#x27;s page lists its updates from the fund: the day, what had been paid in and the value. Edit one on its day, or delete it together with the contributions it worked out; contributions you entered yourself stay. With a single update, the history asks for a second one instead of showing a lone dot.</li>
+<li>A holding&#x27;s history lists the values recorded for it, to correct or delete one.</li>
+<li>The summary groups categories under their parent: car tax and insurance count in Car, with the subcategories that make up the total shown under it.</li>
+<li>Click a category in the summary to see its transactions for that month or year.</li>
+<li>A holding made by a conversion continues the history of the one converted into it, from the first purchase.</li>
+<li>Amount fields select their whole content when you click or tab into them, so typing replaces 0,00 or the old amount.</li>
 </ul>
 <p><strong>Italiano</strong></p>
 <ul>
-<li>Converti un titolo in un altro, quando un ETF viene fuso in un altro o cambi fondo: dal menu del titolo scegli un titolo nuovo o esistente, il giorno e le quote ricevute. L&#x27;investito e l&#x27;ultimo controvalore passano all&#x27;altro titolo senza toccare la liquidità del conto, quindi il guadagno continua a contare dagli acquisti originali, e il vecchio titolo viene archiviato. Eliminando la conversione, il vecchio titolo torna com&#x27;era.</li>
-<li>Il grafico del patrimonio netto non salta più nel mese in cui registri un controvalore: tra due valori di un titolo stima un andamento regolare. L&#x27;andamento di un titolo ora parte dal primo acquisto. I totali dei conti mostrano sempre l&#x27;ultimo valore reale.</li>
-<li>Ogni titolo ha una classe di attivo: azionario, obbligazionario, monetario, materie prime, o bilanciato con la sua quota azionaria. L&#x27;app la propone in base al tipo di titolo. La ripartizione del patrimonio si può vedere per strumento o per classe di attivo, con i bilanciati divisi tra azionario e obbligazionario.</li>
-<li>I fondi pensione si aggiornano come li mostra il fondo: il valore e quanto hanno versato tu, il datore di lavoro e il TFR, con il totale calcolato. Si può ancora inserire solo il totale. Quello che era stato versato prima di usare l&#x27;app viene diviso tra le tre parti.</li>
-<li>Il TFR è un tipo di versamento a sé. I versamenti del datore di lavoro registrati prima di questa versione restano contati come del datore di lavoro.</li>
-<li>Inserendo i controvalori per un giorno passato, i campi non si riempiono più con i prezzi di oggi: partono da quanto valeva ogni titolo quel giorno.</li>
-<li>Un titolo aggiunto come &quot;Già in portafoglio&quot; registra il &quot;Controvalore attuale&quot; alla data di oggi, anche quando la data dell&#x27;acquisto è più vecchia.</li>
+<li>La pagina di un fondo pensione elenca gli aggiornamenti dal fondo: il giorno, quanto era stato versato e il valore. Puoi modificarne uno nel suo giorno, oppure eliminarlo insieme ai versamenti che ne erano stati ricavati; i versamenti che hai inserito tu restano. Con un solo aggiornamento, l&#x27;andamento chiede un secondo aggiornamento invece di mostrare un punto isolato.</li>
+<li>L&#x27;andamento di un titolo elenca i controvalori registrati, per correggerne o eliminarne uno.</li>
+<li>Il riepilogo raggruppa le categorie sotto la categoria padre: bollo e assicurazione contano in Auto, con le sottocategorie che compongono il totale mostrate sotto.</li>
+<li>Fai clic su una categoria del riepilogo per vedere i suoi movimenti di quel mese o di quell&#x27;anno.</li>
+<li>Un titolo nato da una conversione continua l&#x27;andamento del titolo convertito, dal primo acquisto.</li>
+<li>I campi degli importi selezionano tutto il contenuto quando ci entri con un clic o con Tab, così scrivendo sostituisci 0,00 o il vecchio importo.</li>
 </ul></body>]]></description>
-            <enclosure url="https://github.com/valepasse/PersonalFinance-releases/releases/download/v0.10.0/PersonalFinance-0.10.0-macOS.zip" length="6681579" type="application/octet-stream" sparkle:edSignature="DCPYrGOyDFyHBcT15RJnCfIfy2ii/HFFDMKUf5IBI591cmWcLN7augrnjrxk44TIfZU/YJQpY6vVUZxOBKc5DQ=="/>
+            <enclosure url="https://github.com/valepasse/PersonalFinance-releases/releases/download/v0.11.0/PersonalFinance-0.11.0-macOS.zip" length="6785866" type="application/octet-stream" sparkle:edSignature="1aE9CW2sr4FI5QhLO0JM2JAhje+5zxYxmP8LcLyFVkHBWhZQumxbyZbLCvZE8dIH0rvqw5dtgtskEmIQI2vtBA=="/>
         </item>
     </channel>
 </rss>
