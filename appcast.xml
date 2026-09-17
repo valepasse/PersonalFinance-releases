@@ -3,25 +3,21 @@
     <channel>
         <title>PersonalFinance</title>
         <item>
-            <title>0.12.1</title>
-            <pubDate>Thu, 17 Sep 2026 14:53:25 +0200</pubDate>
-            <sparkle:version>0.12.1</sparkle:version>
-            <sparkle:shortVersionString>0.12.1</sparkle:shortVersionString>
+            <title>0.13.0</title>
+            <pubDate>Thu, 17 Sep 2026 15:10:51 +0200</pubDate>
+            <sparkle:version>0.13.0</sparkle:version>
+            <sparkle:shortVersionString>0.13.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<!doctype html><meta charset=utf-8><body style='font: 13px -apple-system'><h2>PersonalFinance 0.12.1</h2>
+            <description><![CDATA[<!doctype html><meta charset=utf-8><body style='font: 13px -apple-system'><h2>PersonalFinance 0.13.0</h2>
 <p><strong>English</strong></p>
 <ul>
-<li>Amount fields select their content on the first click, and fields worth zero stay empty with the 0,00 placeholder, so you type the amount straight away.</li>
-<li>The large amount of a new transaction no longer slides out of view when you click into it (Mac).</li>
-<li>Set your pension fund&#x27;s composition, the share in equity of its investment option, on the fund&#x27;s page. The asset allocation by asset class splits the fund between equity and bonds; by instrument it keeps its own slice.</li>
+<li>Deposits and withdrawals: record money coming into an account from outside the app, or leaving it, such as a bank transfer to your broker from a bank you don&#x27;t track. In the transaction form, choose Transfer and &quot;Outside the App&quot; as the source or the destination. They aren&#x27;t income or expenses, so the summary doesn&#x27;t count them.</li>
 </ul>
 <p><strong>Italiano</strong></p>
 <ul>
-<li>I campi degli importi selezionano il contenuto al primo clic, e quelli che valgono zero restano vuoti con il suggerimento 0,00, così scrivi subito l&#x27;importo.</li>
-<li>L&#x27;importo grande di un nuovo movimento non scivola più fuori vista quando ci clicchi (Mac).</li>
-<li>Imposta la composizione del fondo pensione, cioè la quota azionaria del comparto, nella pagina del fondo. La ripartizione del patrimonio per classe di attivo divide il fondo tra azionario e obbligazionario; per strumento resta una voce a sé.</li>
+<li>Versamenti e prelievi: registra i soldi che entrano in un conto da fuori dall&#x27;app, o che ne escono, come un bonifico al broker da una banca che non segui. Nel modulo del movimento scegli Trasferimento e &quot;Fuori dall&#x27;app&quot; come origine o destinazione. Non sono entrate né spese, quindi il riepilogo non li conta.</li>
 </ul></body>]]></description>
-            <enclosure url="https://github.com/valepasse/PersonalFinance-releases/releases/download/v0.12.1/PersonalFinance-0.12.1-macOS.zip" length="6800380" type="application/octet-stream" sparkle:edSignature="/tqVVX14o4t99CMCubIESmzyFkKcfnb1yjQH3ly957SWc2QvQzBaGxA0x7vu35dTbnVDlWZI1ljAJinisWKTAA=="/>
+            <enclosure url="https://github.com/valepasse/PersonalFinance-releases/releases/download/v0.13.0/PersonalFinance-0.13.0-macOS.zip" length="6802961" type="application/octet-stream" sparkle:edSignature="PaYaMkKs7mCKx7jQ91DIDwrVaKe6qa3o2IStCIVsyA+O7Nv1S8kPCq2XaWfZxSUTQ735Bm7smRSO6qUhZDX5Dw=="/>
         </item>
     </channel>
 </rss>
