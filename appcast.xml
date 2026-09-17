@@ -3,21 +3,25 @@
     <channel>
         <title>PersonalFinance</title>
         <item>
-            <title>0.12.0</title>
-            <pubDate>Thu, 17 Sep 2026 14:34:40 +0200</pubDate>
-            <sparkle:version>0.12.0</sparkle:version>
-            <sparkle:shortVersionString>0.12.0</sparkle:shortVersionString>
+            <title>0.12.1</title>
+            <pubDate>Thu, 17 Sep 2026 14:53:25 +0200</pubDate>
+            <sparkle:version>0.12.1</sparkle:version>
+            <sparkle:shortVersionString>0.12.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<!doctype html><meta charset=utf-8><body style='font: 13px -apple-system'><h2>PersonalFinance 0.12.0</h2>
+            <description><![CDATA[<!doctype html><meta charset=utf-8><body style='font: 13px -apple-system'><h2>PersonalFinance 0.12.1</h2>
 <p><strong>English</strong></p>
 <ul>
-<li>Record the broker&#x27;s fees on a buy or a sell. A buy costs its amount plus the fees, a sell brings in its amount minus them, and fees count in the money invested, as in the broker&#x27;s average cost. An investment account&#x27;s overview shows the fees paid, and the Excel export lists them.</li>
+<li>Amount fields select their content on the first click, and fields worth zero stay empty with the 0,00 placeholder, so you type the amount straight away.</li>
+<li>The large amount of a new transaction no longer slides out of view when you click into it (Mac).</li>
+<li>Set your pension fund&#x27;s composition, the share in equity of its investment option, on the fund&#x27;s page. The asset allocation by asset class splits the fund between equity and bonds; by instrument it keeps its own slice.</li>
 </ul>
 <p><strong>Italiano</strong></p>
 <ul>
-<li>Registra le commissioni del broker su un acquisto o una vendita. Un acquisto costa l&#x27;importo più le commissioni, una vendita incassa l&#x27;importo meno le commissioni, e le commissioni fanno parte dell&#x27;investito, come nel prezzo medio di carico del broker. La panoramica di un conto di investimento mostra le commissioni pagate, e l&#x27;esportazione in Excel le elenca.</li>
+<li>I campi degli importi selezionano il contenuto al primo clic, e quelli che valgono zero restano vuoti con il suggerimento 0,00, così scrivi subito l&#x27;importo.</li>
+<li>L&#x27;importo grande di un nuovo movimento non scivola più fuori vista quando ci clicchi (Mac).</li>
+<li>Imposta la composizione del fondo pensione, cioè la quota azionaria del comparto, nella pagina del fondo. La ripartizione del patrimonio per classe di attivo divide il fondo tra azionario e obbligazionario; per strumento resta una voce a sé.</li>
 </ul></body>]]></description>
-            <enclosure url="https://github.com/valepasse/PersonalFinance-releases/releases/download/v0.12.0/PersonalFinance-0.12.0-macOS.zip" length="6789998" type="application/octet-stream" sparkle:edSignature="RtrguhVEiUm1OIUPj68rwrYDDKj68z55ehf0ng8miUC04ZN1eOuPJE+mlLeQE5/722tRI49PlA4DvQ4b+zNIBw=="/>
+            <enclosure url="https://github.com/valepasse/PersonalFinance-releases/releases/download/v0.12.1/PersonalFinance-0.12.1-macOS.zip" length="6800380" type="application/octet-stream" sparkle:edSignature="/tqVVX14o4t99CMCubIESmzyFkKcfnb1yjQH3ly957SWc2QvQzBaGxA0x7vu35dTbnVDlWZI1ljAJinisWKTAA=="/>
         </item>
     </channel>
 </rss>
