@@ -3,21 +3,23 @@
     <channel>
         <title>PersonalFinance</title>
         <item>
-            <title>0.13.0</title>
-            <pubDate>Thu, 17 Sep 2026 15:10:51 +0200</pubDate>
-            <sparkle:version>0.13.0</sparkle:version>
-            <sparkle:shortVersionString>0.13.0</sparkle:shortVersionString>
+            <title>0.13.1</title>
+            <pubDate>Thu, 17 Sep 2026 18:02:18 +0200</pubDate>
+            <sparkle:version>0.13.1</sparkle:version>
+            <sparkle:shortVersionString>0.13.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<!doctype html><meta charset=utf-8><body style='font: 13px -apple-system'><h2>PersonalFinance 0.13.0</h2>
+            <description><![CDATA[<!doctype html><meta charset=utf-8><body style='font: 13px -apple-system'><h2>PersonalFinance 0.13.1</h2>
 <p><strong>English</strong></p>
 <ul>
-<li>Deposits and withdrawals: record money coming into an account from outside the app, or leaving it, such as a bank transfer to your broker from a bank you don&#x27;t track. In the transaction form, choose Transfer and &quot;Outside the App&quot; as the source or the destination. They aren&#x27;t income or expenses, so the summary doesn&#x27;t count them.</li>
+<li>The holdings table shows the units of each holding, and the trades table the units and fees of each trade.</li>
+<li>Double-click a holding to see its history and recorded values; Edit is in its menu.</li>
 </ul>
 <p><strong>Italiano</strong></p>
 <ul>
-<li>Versamenti e prelievi: registra i soldi che entrano in un conto da fuori dall&#x27;app, o che ne escono, come un bonifico al broker da una banca che non segui. Nel modulo del movimento scegli Trasferimento e &quot;Fuori dall&#x27;app&quot; come origine o destinazione. Non sono entrate né spese, quindi il riepilogo non li conta.</li>
+<li>La tabella dei titoli mostra le quote di ogni titolo, e quella delle operazioni le quote e le commissioni di ogni operazione.</li>
+<li>Fai doppio clic su un titolo per vederne l&#x27;andamento e i controvalori registrati; Modifica è nel suo menu.</li>
 </ul></body>]]></description>
-            <enclosure url="https://github.com/valepasse/PersonalFinance-releases/releases/download/v0.13.0/PersonalFinance-0.13.0-macOS.zip" length="6802961" type="application/octet-stream" sparkle:edSignature="PaYaMkKs7mCKx7jQ91DIDwrVaKe6qa3o2IStCIVsyA+O7Nv1S8kPCq2XaWfZxSUTQ735Bm7smRSO6qUhZDX5Dw=="/>
+            <enclosure url="https://github.com/valepasse/PersonalFinance-releases/releases/download/v0.13.1/PersonalFinance-0.13.1-macOS.zip" length="6803779" type="application/octet-stream" sparkle:edSignature="SvbFWFmdXkSnQF2HfZhY0Rcwg4KaSxyarIOktxTs8TosEJ+cqofZaPVLchMOjdlG8ng2A824WnIKvMxEG4JeAw=="/>
         </item>
     </channel>
 </rss>
