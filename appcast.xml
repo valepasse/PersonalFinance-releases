@@ -3,33 +3,25 @@
     <channel>
         <title>PersonalFinance</title>
         <item>
-            <title>0.16.0</title>
-            <pubDate>Tue, 22 Sep 2026 19:50:32 +0200</pubDate>
-            <sparkle:version>0.16.0</sparkle:version>
-            <sparkle:shortVersionString>0.16.0</sparkle:shortVersionString>
+            <title>0.17.0</title>
+            <pubDate>Wed, 23 Sep 2026 09:57:45 +0200</pubDate>
+            <sparkle:version>0.17.0</sparkle:version>
+            <sparkle:shortVersionString>0.17.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<!doctype html><meta charset=utf-8><body style='font: 13px -apple-system'><h2>PersonalFinance 0.16.0</h2>
+            <description><![CDATA[<!doctype html><meta charset=utf-8><body style='font: 13px -apple-system'><h2>PersonalFinance 0.17.0</h2>
 <p><strong>English</strong></p>
 <ul>
-<li>A new app icon: an amber ring in three segments, like the allocation chart. The old one looked too much like Numbers.</li>
-<li>Update Values no longer uses a price more than 10 days old, such as the last price of an ETF that merged into another: it says the price is too old and suggests converting the holding.</li>
-<li>A conversion recorded late now goes through: the converted holding&#x27;s automatic values after its day are deleted with it. Trades and values you entered yourself still come first, and the form says, under the date, the first day the conversion can be.</li>
-<li>A new &quot;Stamp Duty&quot; icon, a seal, for categories such as the stamp duty on a securities account.</li>
-<li>Dates are typed in their field (/ or Tab moves to the next part, ↑↓ change it), and the calendar opens only from the button beside it, instead of covering the form at every click.</li>
-<li>A space typed at the end of a note or a name shows at once, instead of only with the next letter.</li>
-<li>Windows: the same changes to prices and conversions, the seal icon and the new app icon.</li>
+<li>Crypto is now an asset class of its own: bitcoin and the ETPs that hold it (21Shares and the like) used to count as commodities, which hid how much of your assets they are. Pick &quot;Crypto&quot; in a holding&#x27;s form and the allocation by asset class gives them their own slice.</li>
+<li>Your data is updated on first launch (schema 21). Until the Windows app ships this version, sync between the two refuses to run.</li>
+<li>Windows: the same asset class, written but not built yet.</li>
 </ul>
 <p><strong>Italiano</strong></p>
 <ul>
-<li>Una nuova icona dell&#x27;app: un anello ambra in tre spicchi, come il grafico della ripartizione. La vecchia somigliava troppo a Numbers.</li>
-<li>Aggiorna controvalori non usa più un prezzo vecchio di oltre 10 giorni, come l&#x27;ultimo prezzo di un ETF fuso in un altro: avvisa che il prezzo è troppo vecchio e suggerisce di convertire il titolo.</li>
-<li>Una conversione registrata in ritardo ora va a buon fine: i controvalori automatici del titolo convertito successivi a quel giorno vengono eliminati con essa. Le operazioni e i controvalori inseriti da te restano prioritari, e il modulo indica sotto la data il primo giorno possibile per la conversione.</li>
-<li>Una nuova icona &quot;Bolli&quot;, un sigillo, per categorie come il bollo sul dossier titoli.</li>
-<li>Le date si scrivono nel campo (/ o Tab passano alla parte successiva, ↑↓ le cambiano) e il calendario si apre solo dal pulsante accanto, invece di coprire il modulo a ogni clic.</li>
-<li>Uno spazio scritto in fondo a una nota o a un nome si vede subito, invece che solo con la lettera successiva.</li>
-<li>Windows: le stesse modifiche a prezzi e conversioni, l&#x27;icona del sigillo e la nuova icona dell&#x27;app.</li>
+<li>Le criptovalute sono ora una classe di attivo a sé: bitcoin e gli ETP che li detengono (21Shares e simili) finivano tra le materie prime, il che nascondeva quanta parte del patrimonio sono. Scegli &quot;Criptovalute&quot; nel modulo del titolo e la ripartizione per classe di attivo dà loro la propria fetta.</li>
+<li>I tuoi dati vengono aggiornati al primo avvio (schema 21). Finché l&#x27;app Windows non pubblica questa versione, la sincronizzazione tra le due viene rifiutata.</li>
+<li>Windows: la stessa classe di attivo, scritta ma non ancora compilata.</li>
 </ul></body>]]></description>
-            <enclosure url="https://github.com/valepasse/PersonalFinance-releases/releases/download/v0.16.0/PersonalFinance-0.16.0-macOS.zip" length="7192494" type="application/octet-stream" sparkle:edSignature="3K8J+vD+auehc24P5b9IzxtGbcLO4j/7+e14xhkvD00gHVS9L0fMjYqmBKTYcvmXtnL8B+CEuNE71clKORrUAA=="/>
+            <enclosure url="https://github.com/valepasse/PersonalFinance-releases/releases/download/v0.17.0/PersonalFinance-0.17.0-macOS.zip" length="7193308" type="application/octet-stream" sparkle:edSignature="utbcT10GrsR+CEzBM6Dyt+ZoobajW6FUms13bG4m8Yo2oqhufzrm0piUslSPgpl52Wx/n/bwQcnVbfyw+vVKAA=="/>
         </item>
     </channel>
 </rss>
