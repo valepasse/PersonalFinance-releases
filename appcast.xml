@@ -1,43 +1,45 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>PersonalFinance</title>
+        <title>Quadra</title>
         <item>
-            <title>0.18.0</title>
-            <pubDate>Wed, 23 Sep 2026 20:18:36 +0200</pubDate>
-            <sparkle:version>0.18.0</sparkle:version>
-            <sparkle:shortVersionString>0.18.0</sparkle:shortVersionString>
+            <title>0.19.0</title>
+            <pubDate>Fri, 25 Sep 2026 14:53:36 +0200</pubDate>
+            <sparkle:version>0.19.0</sparkle:version>
+            <sparkle:shortVersionString>0.19.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<!doctype html><meta charset=utf-8><body style='font: 13px -apple-system'><h2>PersonalFinance 0.18.0</h2>
+            <description><![CDATA[<!doctype html><meta charset=utf-8><body style='font: 13px -apple-system'><h2>Quadra 0.19.0</h2>
 <p><strong>English</strong></p>
 <ul>
-<li>Meal vouchers and welfare credit: two new kinds of account whose money comes in lots, each with its expiry. Add the vouchers you receive (how many, their value, the month they expire; as income when they&#x27;re part of the pay, or as vouchers you already had), then pay by picking how many of each lot you used: the rest of the receipt can come from another account. Welfare credit is spent from the lot that expires first, transfers to the pension fund included.</li>
-<li>Expiry reminders: lots about to expire show in orange, expired ones in red, and the sidebar says how many expire and when. Notifications arrive a month and a week before. Expired vouchers can be recorded as lost, or given a new expiry when the issuer extends them.</li>
-<li>An expense paid from two accounts, such as a PayPal balance topped up by a card or vouchers and cash: &quot;Pay Part From Another Account&quot; records two expenses tied together, each on its own account, edited and deleted together.</li>
-<li>The sidebar groups accounts into Cash, Vouchers and Welfare, Investments, and Cards and Loans, each with its total. Groups can be closed, and &quot;Move To&quot; puts an account in another group, such as a credit card with the cash.</li>
-<li>ETP/ETC is a kind of holding, for crypto ETPs and commodity ETCs.</li>
-<li>Transactions can be filtered by account and by type (expenses, income, transfers). A search suggests the categories and accounts it names, and one click turns it into that filter.</li>
-<li>A details pane beside the transactions, and more in their menu: Duplicate, Change Category (for several at once), Show in the account. A category&#x27;s menu shows its transactions.</li>
-<li>One account&#x27;s list shows its balance after each transaction. Deleting happens at once, with Undo in the message that confirms it; saving, exporting and updating values say what happened, too.</li>
-<li>Figures roll to their new value, charts share one look and animate, the allocation chart shows a slice&#x27;s details under the pointer, and badges are tinted in dark mode.</li>
-<li>Your data is updated on first launch (schema 25). Until the Windows app ships this version, sync between the two refuses to run.</li>
-<li>Windows: the same features, written but not built yet; there, expiry reminders show inside the app only.</li>
+<li>PersonalFinance is now called Quadra. Your data, backups, sync and updates carry on as before.</li>
+<li>A welcome page for a fresh start: begin from scratch (where your money is and how much, from today or the first of the month), bring your data from a backup or another computer, or try three months of sample data, which &quot;Start for Real…&quot; deletes.</li>
+<li>An account&#x27;s opening balance has a day: its history and the summary start there, a period only partly recorded says &quot;Since …&quot; instead of showing a loss, and the forecast counts whole months only. Existing accounts show the day of their first transaction.</li>
+<li>An expense or income that looks like a cash withdrawal, a card payment or savings offers to become a transfer, and a date before an account&#x27;s opening day warns that it may count twice.</li>
+<li>Investment accounts: an empty one asks how to start, from today with opening positions or rebuilding the history from your statements. The add menu speaks like a statement (transfer in and out, coupon or dividend, stamp duty and fees, buy, sell), a buy costing more than the cash on its day offers to record the missing transfer first, and a new holding&#x27;s kind is always chosen, never assumed.</li>
+<li>Summary: the charts stop at today, the month in progress shows today&#x27;s net worth, and a period without income or expenses shows a compact card.</li>
+<li>Forms: something new starts without a date and asks for one, with a Today button. Fields no longer show sample text, except the amount: &quot;0,00&quot;, with the currency&#x27;s sign beside it.</li>
+<li>Hide Balances (⇧⌘H, or the eye in the toolbar) hides what you have — balances, values, net worth, the forecast — in the sidebar and on every page, while transactions, income and expenses stay readable.</li>
+<li>Quicker, cleaner page changes: a click in the sidebar answers at once, pages swap without fading, lists show whole the first time instead of in stages, and the details pane stays open from page to page. Every page has a subtitle, so titles no longer change size, and the icons in a list no longer briefly show another row&#x27;s.</li>
+<li>Table columns follow the window&#x27;s width again.</li>
+<li>Your data is updated on first launch (schema 26). Until the Windows app ships this version, sync between the two refuses to run.</li>
+<li>Windows: the same features, and hiding balances works the same way.</li>
 </ul>
 <p><strong>Italiano</strong></p>
 <ul>
-<li>Buoni pasto e welfare: due nuovi tipi di conto in cui i soldi arrivano a lotti, ognuno con la sua scadenza. Aggiungi i buoni che ricevi (quanti, di che taglio, il mese in cui scadono; come entrata se fanno parte dello stipendio, o come buoni che avevi già), poi paga scegliendo quanti buoni di ogni lotto hai usato: il resto dello scontrino può arrivare da un altro conto. Il credito welfare si spende dal lotto che scade prima, trasferimenti al fondo pensione compresi.</li>
-<li>Promemoria delle scadenze: i lotti in scadenza sono arancioni, quelli scaduti rossi, e la barra laterale dice quanti scadono e quando. Le notifiche arrivano un mese e una settimana prima. I buoni scaduti si possono registrare come persi, o prorogare quando l&#x27;emittente lo concede.</li>
-<li>Una spesa pagata da due conti, come un saldo PayPal integrato dalla carta o buoni più contanti: &quot;Paga una parte da un altro conto&quot; registra due spese collegate, ognuna sul suo conto, che si modificano ed eliminano insieme.</li>
-<li>La barra laterale raggruppa i conti in Liquidità, Buoni e welfare, Investimenti, Carte e prestiti, ciascuno con il suo totale. I gruppi si possono chiudere, e &quot;Sposta in&quot; mette un conto in un altro gruppo, come una carta di credito tra la liquidità.</li>
-<li>ETP/ETC è un tipo di titolo, per gli ETP su criptovalute e gli ETC su materie prime.</li>
-<li>I movimenti si filtrano anche per conto e per tipo (spese, entrate, trasferimenti). La ricerca suggerisce le categorie e i conti che nomina, e con un clic diventa quel filtro.</li>
-<li>Un pannello dettagli accanto ai movimenti, e più voci nel loro menu: Duplica, Cambia categoria (anche per più movimenti insieme), Mostra nel conto. Il menu di una categoria ne mostra i movimenti.</li>
-<li>La lista di un conto mostra il saldo dopo ogni movimento. L&#x27;eliminazione è immediata, con Annulla nel messaggio che la conferma; anche salvataggi, esportazioni e aggiornamenti dei controvalori dicono cosa è successo.</li>
-<li>Le cifre scorrono al nuovo valore, i grafici hanno un aspetto unico e si animano, il grafico della ripartizione mostra i dettagli di una fetta sotto il puntatore, e i badge sono tinti nel tema scuro.</li>
-<li>I tuoi dati vengono aggiornati al primo avvio (schema 25). Finché l&#x27;app Windows non pubblica questa versione, la sincronizzazione tra le due viene rifiutata.</li>
-<li>Windows: le stesse funzioni, scritte ma non ancora compilate; lì i promemoria delle scadenze compaiono solo dentro l&#x27;app.</li>
+<li>PersonalFinance ora si chiama Quadra. Dati, backup, sincronizzazione e aggiornamenti continuano come prima.</li>
+<li>Una pagina di benvenuto per cominciare: da zero (dove sono i tuoi soldi e quanti, da oggi o dal primo del mese), portando i dati da un backup o da un altro computer, oppure provando tre mesi di dati di esempio, che &quot;Inizia davvero…&quot; elimina.</li>
+<li>Il saldo iniziale di un conto ha una data: la sua storia e il riepilogo partono da lì, un periodo registrato solo in parte dice &quot;Dal …&quot; invece di mostrare una perdita, e le previsioni contano solo mesi interi. I conti esistenti mostrano la data del loro primo movimento.</li>
+<li>Una spesa o un&#x27;entrata che sembra un prelievo, il pagamento della carta o un risparmio propone di diventare un trasferimento, e una data precedente all&#x27;apertura del conto avverte che potrebbe contare due volte.</li>
+<li>Conti d&#x27;investimento: uno vuoto chiede come cominciare, da oggi con le posizioni iniziali o ricostruendo la storia dagli estratti conto. Il menu per aggiungere parla come un estratto conto (bonifico in entrata e in uscita, cedola o dividendo, bollo e commissioni, acquisto, vendita), un acquisto che costa più della liquidità di quel giorno propone di registrare prima il trasferimento che manca, e il tipo di un nuovo titolo si sceglie sempre, senza presupporlo.</li>
+<li>Riepilogo: i grafici si fermano a oggi, il mese in corso mostra il patrimonio di oggi, e un periodo senza entrate né spese mostra una scheda compatta.</li>
+<li>Moduli: una cosa nuova parte senza data e la chiede, con un pulsante Oggi. I campi non mostrano più testo di esempio, tranne l&#x27;importo: &quot;0,00&quot;, con il simbolo della valuta accanto.</li>
+<li>Nascondi saldi (⇧⌘H, o l&#x27;occhio nella barra degli strumenti) nasconde quanto hai — saldi, valori, patrimonio, previsioni — nella barra laterale e in ogni pagina, mentre movimenti, entrate e spese restano leggibili.</li>
+<li>Cambi pagina più rapidi e puliti: un clic nella barra laterale risponde subito, le pagine cambiano senza dissolvenza, le liste compaiono intere già la prima volta invece che a pezzi, e il pannello dettagli resta aperto da una pagina all&#x27;altra. Ogni pagina ha un sottotitolo, così i titoli non cambiano più dimensione, e le icone di una lista non mostrano più per un attimo quelle di un&#x27;altra riga.</li>
+<li>Le colonne delle tabelle tornano a seguire la larghezza della finestra.</li>
+<li>I tuoi dati vengono aggiornati al primo avvio (schema 26). Finché l&#x27;app Windows non pubblica questa versione, la sincronizzazione tra le due viene rifiutata.</li>
+<li>Windows: le stesse funzioni, e nascondere i saldi funziona allo stesso modo.</li>
 </ul></body>]]></description>
-            <enclosure url="https://github.com/valepasse/PersonalFinance-releases/releases/download/v0.18.0/PersonalFinance-0.18.0-macOS.zip" length="7576084" type="application/octet-stream" sparkle:edSignature="1ZiikiPhJjNLHkF76mhSMpcsGnj9K3PT58xv8aHGBE8qNJIX+6MkhOrpXy+u5HsLBkTQEGI/uWY96ijdUKxqDw=="/>
+            <enclosure url="https://github.com/valepasse/PersonalFinance-releases/releases/download/v0.19.0/Quadra-0.19.0-macOS.zip" length="7819263" type="application/octet-stream" sparkle:edSignature="orI/pnPO/0WaW0CUy7+6nghBl8nTBYZ98TBOlF8VzlYFNAzN13A9fmo5HsF2peGcxgftP2K//VHsTb4PXP83AQ=="/>
         </item>
     </channel>
 </rss>
