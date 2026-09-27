@@ -3,43 +3,39 @@
     <channel>
         <title>Quadra</title>
         <item>
-            <title>0.19.0</title>
-            <pubDate>Fri, 25 Sep 2026 14:53:36 +0200</pubDate>
-            <sparkle:version>0.19.0</sparkle:version>
-            <sparkle:shortVersionString>0.19.0</sparkle:shortVersionString>
+            <title>0.20.0</title>
+            <pubDate>Sun, 27 Sep 2026 09:10:55 +0200</pubDate>
+            <sparkle:version>0.20.0</sparkle:version>
+            <sparkle:shortVersionString>0.20.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<!doctype html><meta charset=utf-8><body style='font: 13px -apple-system'><h2>Quadra 0.19.0</h2>
+            <description><![CDATA[<!doctype html><meta charset=utf-8><body style='font: 13px -apple-system'><h2>Quadra 0.20.0</h2>
 <p><strong>English</strong></p>
 <ul>
-<li>PersonalFinance is now called Quadra. Your data, backups, sync and updates carry on as before.</li>
-<li>A welcome page for a fresh start: begin from scratch (where your money is and how much, from today or the first of the month), bring your data from a backup or another computer, or try three months of sample data, which &quot;Start for Real…&quot; deletes.</li>
-<li>An account&#x27;s opening balance has a day: its history and the summary start there, a period only partly recorded says &quot;Since …&quot; instead of showing a loss, and the forecast counts whole months only. Existing accounts show the day of their first transaction.</li>
-<li>An expense or income that looks like a cash withdrawal, a card payment or savings offers to become a transfer, and a date before an account&#x27;s opening day warns that it may count twice.</li>
-<li>Investment accounts: an empty one asks how to start, from today with opening positions or rebuilding the history from your statements. The add menu speaks like a statement (transfer in and out, coupon or dividend, stamp duty and fees, buy, sell), a buy costing more than the cash on its day offers to record the missing transfer first, and a new holding&#x27;s kind is always chosen, never assumed.</li>
-<li>Summary: the charts stop at today, the month in progress shows today&#x27;s net worth, and a period without income or expenses shows a compact card.</li>
-<li>Forms: something new starts without a date and asks for one, with a Today button. Fields no longer show sample text, except the amount: &quot;0,00&quot;, with the currency&#x27;s sign beside it.</li>
-<li>Hide Balances (⇧⌘H, or the eye in the toolbar) hides what you have — balances, values, net worth, the forecast — in the sidebar and on every page, while transactions, income and expenses stay readable.</li>
-<li>Quicker, cleaner page changes: a click in the sidebar answers at once, pages swap without fading, lists show whole the first time instead of in stages, and the details pane stays open from page to page. Every page has a subtitle, so titles no longer change size, and the icons in a list no longer briefly show another row&#x27;s.</li>
-<li>Table columns follow the window&#x27;s width again.</li>
-<li>Your data is updated on first launch (schema 26). Until the Windows app ships this version, sync between the two refuses to run.</li>
-<li>Windows: the same features, and hiding balances works the same way.</li>
+<li>Guides that show the way with real actions: from the welcome page, pick what you want to do (expenses and income, a credit card, meal vouchers, investments, a pension fund, other accounts) and a ring and a note beside each button say what to click and why. A new investment or pension account offers its guide; Settings › Guides and the Help menu start, resume or restart them.</li>
+<li>Essential expenses apart from the others: each expense category is essential (rent, bills, groceries), not essential, or not classified yet; a subcategory follows its parent and a single expense can say otherwise, from its form or its menu. &quot;Classify Expenses…&quot; on the Categories page classifies them all at once, starting from what each name suggests. The summary splits the period&#x27;s expenses, and the list of transactions can show one kind only.</li>
+<li>Forecast: &quot;Future Spending&quot; shows what you&#x27;d have spending as now, 10, 25 or 50% less on what isn&#x27;t essential, or on essentials only, against spending as now. It also shows your average income and expenses by kind, the cost of living, how many months the money you have would cover it, and what you could save.</li>
+<li>New Portfolio page: your investments at the end of every month, value against money invested, over 1, 3, 5 years or all time, with the gain, the return and the yearly return of your money. Filters show one account or holding; pension funds are left out unless you include them.</li>
+<li>Dividends and coupons count in the gain of the holding that paid them: choose it in &quot;Paid by&quot; when you record them (a coupon recorded from the bond&#x27;s payments already knows).</li>
+<li>Purchase History: a holding you already owned when the account started takes each past buy (day, units, price, fees) instead of a single total, so its chart follows the units you really had. The units on your statement must add up.</li>
+<li>The history of your income and expenses starts with your everyday accounts: a broker rebuilt from years back, or a pension fund&#x27;s past contributions, no longer make the summary and the forecast count empty years.</li>
+<li>Privacy in Settings: what the app keeps and what it sends, with switches for looking up prices online and checking for updates. Starting from scratch asks where to keep your data: on this Mac only, or also in a cloud folder to use it on your other computers; if you already use Quadra, the choice is in Settings › Sync.</li>
+<li>Help › Save Report for Support… (also in Settings › Support) saves one text file with what the app did and the errors it met, never your amounts, names or notes.</li>
+<li>Your data is updated on first launch (schema 29). The Windows app gets these features in a later version: until then, sync between the two refuses to run.</li>
 </ul>
 <p><strong>Italiano</strong></p>
 <ul>
-<li>PersonalFinance ora si chiama Quadra. Dati, backup, sincronizzazione e aggiornamenti continuano come prima.</li>
-<li>Una pagina di benvenuto per cominciare: da zero (dove sono i tuoi soldi e quanti, da oggi o dal primo del mese), portando i dati da un backup o da un altro computer, oppure provando tre mesi di dati di esempio, che &quot;Inizia davvero…&quot; elimina.</li>
-<li>Il saldo iniziale di un conto ha una data: la sua storia e il riepilogo partono da lì, un periodo registrato solo in parte dice &quot;Dal …&quot; invece di mostrare una perdita, e le previsioni contano solo mesi interi. I conti esistenti mostrano la data del loro primo movimento.</li>
-<li>Una spesa o un&#x27;entrata che sembra un prelievo, il pagamento della carta o un risparmio propone di diventare un trasferimento, e una data precedente all&#x27;apertura del conto avverte che potrebbe contare due volte.</li>
-<li>Conti d&#x27;investimento: uno vuoto chiede come cominciare, da oggi con le posizioni iniziali o ricostruendo la storia dagli estratti conto. Il menu per aggiungere parla come un estratto conto (bonifico in entrata e in uscita, cedola o dividendo, bollo e commissioni, acquisto, vendita), un acquisto che costa più della liquidità di quel giorno propone di registrare prima il trasferimento che manca, e il tipo di un nuovo titolo si sceglie sempre, senza presupporlo.</li>
-<li>Riepilogo: i grafici si fermano a oggi, il mese in corso mostra il patrimonio di oggi, e un periodo senza entrate né spese mostra una scheda compatta.</li>
-<li>Moduli: una cosa nuova parte senza data e la chiede, con un pulsante Oggi. I campi non mostrano più testo di esempio, tranne l&#x27;importo: &quot;0,00&quot;, con il simbolo della valuta accanto.</li>
-<li>Nascondi saldi (⇧⌘H, o l&#x27;occhio nella barra degli strumenti) nasconde quanto hai — saldi, valori, patrimonio, previsioni — nella barra laterale e in ogni pagina, mentre movimenti, entrate e spese restano leggibili.</li>
-<li>Cambi pagina più rapidi e puliti: un clic nella barra laterale risponde subito, le pagine cambiano senza dissolvenza, le liste compaiono intere già la prima volta invece che a pezzi, e il pannello dettagli resta aperto da una pagina all&#x27;altra. Ogni pagina ha un sottotitolo, così i titoli non cambiano più dimensione, e le icone di una lista non mostrano più per un attimo quelle di un&#x27;altra riga.</li>
-<li>Le colonne delle tabelle tornano a seguire la larghezza della finestra.</li>
-<li>I tuoi dati vengono aggiornati al primo avvio (schema 26). Finché l&#x27;app Windows non pubblica questa versione, la sincronizzazione tra le due viene rifiutata.</li>
-<li>Windows: le stesse funzioni, e nascondere i saldi funziona allo stesso modo.</li>
+<li>Guide che mostrano la strada con azioni vere: dalla pagina di benvenuto scegli cosa vuoi fare (spese ed entrate, una carta di credito, i buoni pasto, gli investimenti, un fondo pensione, altri conti) e un anello e una nota accanto a ogni pulsante dicono dove cliccare e perché. Un nuovo conto investimenti o fondo pensione propone la sua guida; Impostazioni › Guide e il menu Aiuto le avviano, le riprendono o le ricominciano.</li>
+<li>Spese essenziali distinte dalle altre: ogni categoria di spesa è essenziale (affitto, bollette, spesa alimentare), non essenziale o da classificare; una sottocategoria segue la sua categoria e una singola spesa può fare eccezione, dal suo modulo o dal suo menu. «Classifica le spese…» nella pagina Categorie le classifica tutte insieme, partendo da quello che suggerisce ogni nome. Il riepilogo divide le spese del periodo, e l&#x27;elenco dei movimenti può mostrarne un solo tipo.</li>
+<li>Previsioni: «Spese future» mostra quanto avresti spendendo come adesso, il 10, 25 o 50% in meno in ciò che non è essenziale, o solo per l&#x27;essenziale, a confronto con le spese di adesso. Mostra anche entrate e spese medie per tipo, il costo della vita, per quanti mesi i soldi che hai lo coprirebbero e quanto potresti risparmiare.</li>
+<li>Nuova pagina Portafoglio: i tuoi investimenti a fine di ogni mese, controvalore contro investito, su 1, 3, 5 anni o da sempre, con guadagno, rendimento e rendimento annuo dei tuoi soldi. I filtri mostrano un conto o un titolo; i fondi pensione restano fuori finché non li includi.</li>
+<li>Dividendi e cedole entrano nel guadagno del titolo che li ha pagati: sceglilo in «Pagato da» quando li registri (una cedola registrata dalle scadenze dell&#x27;obbligazione lo sa già).</li>
+<li>Storico acquisti: un titolo che avevi già quando il conto è partito accoglie ogni acquisto passato (giorno, quote, prezzo, commissioni) invece di un solo totale, così il suo grafico segue le quote che avevi davvero. Le quote dell&#x27;estratto conto devono tornare.</li>
+<li>La storia di entrate e spese parte dai conti di tutti i giorni: un broker ricostruito da anni prima, o i versamenti passati di un fondo pensione, non fanno più contare anni vuoti al riepilogo e alle previsioni.</li>
+<li>Privacy nelle Impostazioni: cosa conserva l&#x27;app e cosa invia, con gli interruttori per la ricerca dei prezzi online e il controllo degli aggiornamenti. Chi parte da zero sceglie dove tenere i dati: solo su questo Mac, oppure anche in una cartella cloud per usarli sugli altri computer; se usi già Quadra, la scelta è in Impostazioni › Sincronizzazione.</li>
+<li>Aiuto › Salva il report per l&#x27;assistenza… (anche in Impostazioni › Assistenza) salva un file di testo con quello che l&#x27;app ha fatto e gli errori incontrati, mai i tuoi importi, nomi o note.</li>
+<li>I tuoi dati vengono aggiornati al primo avvio (schema 29). L&#x27;app Windows riceverà queste funzioni in una versione successiva: fino ad allora la sincronizzazione tra le due viene rifiutata.</li>
 </ul></body>]]></description>
-            <enclosure url="https://github.com/valepasse/PersonalFinance-releases/releases/download/v0.19.0/Quadra-0.19.0-macOS.zip" length="7819263" type="application/octet-stream" sparkle:edSignature="orI/pnPO/0WaW0CUy7+6nghBl8nTBYZ98TBOlF8VzlYFNAzN13A9fmo5HsF2peGcxgftP2K//VHsTb4PXP83AQ=="/>
+            <enclosure url="https://github.com/valepasse/PersonalFinance-releases/releases/download/v0.20.0/Quadra-0.20.0-macOS.zip" length="8378021" type="application/octet-stream" sparkle:edSignature="qIaYmmun+gT4/AAdAPJ7sDPOWcHD4r0WGHVFIR+5+9LrJoifBQKzVvOmCfgsm4Mr/DqUTW30vy8mDv0hI6sUAQ=="/>
         </item>
     </channel>
 </rss>
