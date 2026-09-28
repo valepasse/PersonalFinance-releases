@@ -3,29 +3,23 @@
     <channel>
         <title>Quadra</title>
         <item>
-            <title>0.21.0</title>
-            <pubDate>Sun, 27 Sep 2026 22:55:00 +0200</pubDate>
-            <sparkle:version>0.21.0</sparkle:version>
-            <sparkle:shortVersionString>0.21.0</sparkle:shortVersionString>
+            <title>0.21.1</title>
+            <pubDate>Mon, 28 Sep 2026 19:04:29 +0200</pubDate>
+            <sparkle:version>0.21.1</sparkle:version>
+            <sparkle:shortVersionString>0.21.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<!doctype html><meta charset=utf-8><body style='font: 13px -apple-system'><h2>Quadra 0.21.0</h2>
+            <description><![CDATA[<!doctype html><meta charset=utf-8><body style='font: 13px -apple-system'><h2>Quadra 0.21.1</h2>
 <p><strong>English</strong></p>
 <ul>
-<li>The summary starts with your records: a month or year before you began recording income and expenses no longer shows a loss made only of your broker&#x27;s stamp duty, but a note saying since when your records start. A year you started partway through counts from that day, and two years are compared only when both are complete.</li>
-<li>The asset allocation follows the period you&#x27;re looking at: at the end of each past month or year, &quot;Today&quot; for the current one.</li>
-<li>Stamp duty and taxes recorded on an investment account now come out of its gain and return, like broker fees: the account shows them as &quot;Stamp duty and taxes&quot;, and the Portfolio page under the gain, where they lower the yearly return too. They still count as expenses in the summary.</li>
-<li>No change to your data (schema 29): sync works with the 0.20.0 app on Windows.</li>
-<li>Windows: the same features, in a later update.</li>
+<li>Mac: typing an amount (a transaction, trade or contribution) now ignores anything that isn&#x27;t a digit or a decimal separator, instead of letting stray text overflow past the sheet.</li>
+<li>Mac: the &quot;Today&quot; button in an empty date field now looks like a button, not like an already-chosen date.</li>
 </ul>
 <p><strong>Italiano</strong></p>
 <ul>
-<li>Il riepilogo parte dai tuoi conti: un mese o un anno prima che iniziassi a registrare entrate e spese non mostra più una perdita fatta solo dei bolli del broker, ma una nota che dice da quando partono i tuoi conti. Un anno iniziato a metà conta da quel giorno, e due anni si confrontano solo quando sono entrambi completi.</li>
-<li>La ripartizione del patrimonio segue il periodo che stai guardando: a fine di ogni mese o anno passato, «Oggi» per quello in corso.</li>
-<li>I bolli e le tasse registrati su un conto investimenti ora si tolgono dal suo guadagno e dal rendimento, come le commissioni: il conto li mostra come «Bolli e tasse», e la pagina Portafoglio sotto il guadagno, dove abbassano anche il rendimento annuo. Nel riepilogo restano spese.</li>
-<li>Nessun cambiamento ai tuoi dati (schema 29): la sincronizzazione funziona con l’app 0.20.0 su Windows.</li>
-<li>Windows: le stesse funzioni, in un aggiornamento successivo.</li>
+<li>Mac: l&#x27;importo di un movimento, un&#x27;operazione o un versamento ora ignora ciò che non è una cifra o un separatore decimale, invece di far sfondare il testo fuori dal foglio.</li>
+<li>Mac: il pulsante «Oggi» in un campo data vuoto ora ha l&#x27;aspetto di un pulsante, non di una data già scelta.</li>
 </ul></body>]]></description>
-            <enclosure url="https://github.com/valepasse/PersonalFinance-releases/releases/download/v0.21.0/Quadra-0.21.0-macOS.zip" length="8392228" type="application/octet-stream" sparkle:edSignature="PPv7/EcNWHFJEnJ/pkqA439Un7XOdtdGtR0/zT5JyD5zXVkfVGePel6fHKUl0VEaRsgab11fbOtyodIXMtZ1CQ=="/>
+            <enclosure url="https://github.com/valepasse/PersonalFinance-releases/releases/download/v0.21.1/Quadra-0.21.1-macOS.zip" length="8395044" type="application/octet-stream" sparkle:edSignature="qVnRBtpPTGM9/Iykpj4zzDTaJtrXI0COPskTPdmsotMuBSfnnLFjCEiUvwvt9nz93KaHAi/yJTjE0SnvbkjzAg=="/>
         </item>
     </channel>
 </rss>
