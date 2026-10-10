@@ -3,23 +3,37 @@
     <channel>
         <title>Quadra</title>
         <item>
-            <title>0.24.0</title>
-            <pubDate>Wed, 07 Oct 2026 15:35:39 +0200</pubDate>
-            <sparkle:version>0.24.0</sparkle:version>
-            <sparkle:shortVersionString>0.24.0</sparkle:shortVersionString>
+            <title>0.25.0</title>
+            <pubDate>Sat, 10 Oct 2026 12:09:56 +0200</pubDate>
+            <sparkle:version>0.25.0</sparkle:version>
+            <sparkle:shortVersionString>0.25.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<!doctype html><meta charset=utf-8><body style='font: 13px -apple-system'><h2>Quadra 0.24.0</h2>
+            <description><![CDATA[<!doctype html><meta charset=utf-8><body style='font: 13px -apple-system'><h2>Quadra 0.25.0</h2>
 <p><strong>English</strong></p>
 <ul>
-<li>Start over: Settings › Backups › &quot;Erase All Data…&quot; deletes everything and takes you back to the welcome page, as the first time you opened Quadra. A backup of today&#x27;s data is saved first, so you can bring it back from the same tab. If sync is on, it&#x27;s turned off: the shared folder and your other computers keep their data.</li>
-<li>&quot;Start for Real…&quot; no longer fails when a subcategory was added to the sample data.</li>
+<li>A simpler first launch: &quot;Start from Scratch&quot; takes you straight into the app. Your first account asks from when to start beside its balance, offers a bank account and cash first (the other types are under &quot;Other Type&quot;), and its balance question names the day (&quot;How much was in it on 1 October&quot;). Save waits for the balance, 0 included.</li>
+<li>New ledgers start without categories: you create them while recording, also inside a family. Expenses and Income are shown apart once you have both.</li>
+<li>The transaction form shows only what applies, and its suggestions come from your data (the same amount leaving one account and reaching another, a payment that settles the card), not from the words you type.</li>
+<li>Empty pages look alike and offer the next step; the toolbar shows only the commands that can act.</li>
+<li>Icons: a new set to pick from, and account types show the same icons. A savings deposit is now a &quot;Bank Account&quot; with its own icon.</li>
+<li>&quot;Vouchers and Welfare&quot; is one choice of account type, followed by a question: vouchers of a set value, or credit to spend by the amount. Picking a credit card explains what it is in a line.</li>
+<li>Update Values always records today&#x27;s values: no date to pick.</li>
+<li>The guides, the first-use tips and the &quot;?&quot; help are gone: what you need is said where you need it.</li>
+<li>Mac: accounts in the sidebar as tinted badges, icons shaped like the Mac&#x27;s app icons, renaming an account in a rounded field across its row, &quot;Change Icon and Color…&quot; in an account&#x27;s menu, and sheets that grow and shrink smoothly (scrolling when the screen is too small for them).</li>
 </ul>
 <p><strong>Italiano</strong></p>
 <ul>
-<li>Ricomincia da zero: Impostazioni › Backup › «Cancella tutti i dati…» elimina tutto e ti riporta al benvenuto, come la prima volta che hai aperto Quadra. Prima viene salvato un backup dei dati di oggi, che puoi recuperare dalla stessa scheda. Se la sincronizzazione è attiva viene disattivata: la cartella condivisa e gli altri computer mantengono i loro dati.</li>
-<li>«Inizia davvero…» non si blocca più se ai dati d’esempio era stata aggiunta una sottocategoria.</li>
+<li>Un primo avvio più semplice: «Inizia da zero» ti porta subito nell&#x27;app. Il primo conto chiede da quando partire accanto al saldo, propone prima il conto in banca e i contanti (gli altri tipi sono in «Altro tipo») e la domanda del saldo nomina il giorno («Quanto c&#x27;era sul conto il 1 ottobre»). Salva aspetta il saldo, anche 0.</li>
+<li>I nuovi archivi partono senza categorie: le crei mentre registri, anche dentro una famiglia. Spese ed Entrate si separano quando ci sono entrambe.</li>
+<li>Il modulo del movimento mostra solo quello che serve, e i suggerimenti vengono dai tuoi dati (la stessa cifra che esce da un conto ed entra in un altro, un pagamento che salda la carta), non dalle parole che scrivi.</li>
+<li>Le pagine vuote si somigliano e propongono il passo successivo; la barra mostra solo i comandi che possono agire.</li>
+<li>Icone: una nuova serie tra cui scegliere, e i tipi di conto usano le stesse icone. Il conto deposito diventa un «Conto in banca» con la sua icona.</li>
+<li>«Buoni e welfare» è un solo tipo di conto, seguito da una domanda: buoni da un valore fisso o un credito da spendere a importo. Scegliendo la carta di credito, una riga spiega cos&#x27;è.</li>
+<li>Aggiorna controvalori registra sempre i valori di oggi: niente data da scegliere.</li>
+<li>Via le guide, i suggerimenti al primo uso e l&#x27;aiuto «?»: quello che serve è detto dove serve.</li>
+<li>Mac: i conti nella barra laterale come badge colorati, icone con la forma delle icone delle app Mac, rinomina del conto in un campo arrotondato largo quanto la riga, «Cambia icona e colore…» nel menu del conto, e fogli che crescono e si restringono in modo fluido (e scorrono quando lo schermo è troppo piccolo).</li>
 </ul></body>]]></description>
-            <enclosure url="https://github.com/valepasse/PersonalFinance-releases/releases/download/v0.24.0/Quadra-0.24.0-macOS.zip" length="8522529" type="application/octet-stream" sparkle:edSignature="Di3oTXnaMd5mtneQzhjYNtdkb/guBga5fBYvdtZb/xM13XSVERhl8B0MV3wqph8Tod6SskHr3LQ3P6WxdTNnDQ=="/>
+            <enclosure url="https://github.com/valepasse/PersonalFinance-releases/releases/download/v0.25.0/Quadra-0.25.0-macOS.zip" length="8383863" type="application/octet-stream" sparkle:edSignature="8J+0a3u7BMx0yzVsyXo5Sv5EMSRhW+IePmpeQLdd4XsvZ+RAeWkSD1c6qqU98PSe3kN8G2CW9rbseSW6QtTUAA=="/>
         </item>
     </channel>
 </rss>
