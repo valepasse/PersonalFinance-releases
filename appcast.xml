@@ -3,35 +3,23 @@
     <channel>
         <title>Quadra</title>
         <item>
-            <title>0.26.0</title>
-            <pubDate>Mon, 12 Oct 2026 09:17:42 +0200</pubDate>
-            <sparkle:version>0.26.0</sparkle:version>
-            <sparkle:shortVersionString>0.26.0</sparkle:shortVersionString>
+            <title>0.26.1</title>
+            <pubDate>Mon, 12 Oct 2026 17:56:24 +0200</pubDate>
+            <sparkle:version>0.26.1</sparkle:version>
+            <sparkle:shortVersionString>0.26.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<!doctype html><meta charset=utf-8><body style='font: 13px -apple-system'><h2>Quadra 0.26.0</h2>
+            <description><![CDATA[<!doctype html><meta charset=utf-8><body style='font: 13px -apple-system'><h2>Quadra 0.26.1</h2>
 <p><strong>English</strong></p>
 <ul>
-<li>Hide one account&#x27;s balance: &quot;Hide Balance&quot; in the account&#x27;s menu, or the switch in its form. Its balance and values show as dots, and so does every total that counts it (its group&#x27;s, net worth, the portfolio, the forecast), so it can&#x27;t be worked out; its transactions stay. Click the dots to see them for a few seconds. The choice is kept in your data, so every computer that syncs it hides the same accounts.</li>
-<li>The rest of a purchase paid from two accounts is offered only from a bank account, cash or a credit card in the same currency, no longer from investments, the pension fund or vouchers.</li>
-<li>A new vouchers account is named after the answer to &quot;Vouchers or credit?&quot;: &quot;Vouchers&quot; or &quot;Welfare&quot;.</li>
-<li>The values interval of an investment account or pension fund now reads &quot;Remind me to update values&quot;: it&#x27;s a reminder, nothing updates by itself. The orange dot in the list of accounts says when the values were last updated, and clicking it opens the update.</li>
-<li>Mac: every sheet is laid out anew. What it&#x27;s about comes first (the amount with its description, or the name beside its badge); category, account and day are capsules in one row (&quot;Transport&quot;, &quot;Checking&quot;, &quot;Today&quot;); the figures that go together sit in light panels. The sheets are wider and shorter, and no longer scroll on a 13&quot; screen.</li>
-<li>Mac: the Details pane is a column like the Finder&#x27;s preview, under the toolbar, resized by dragging its edge; it opens and closes smoothly, the list following it.</li>
-<li>Mac: Hide Balances is no longer in the toolbar by default: it&#x27;s in View (⇧⌘H), and Customize Toolbar puts it back.</li>
-<li>This version updates your data (schema 31): update Quadra on every computer that syncs it.</li>
+<li>Quadra looks for a new version each time it opens, no longer once a day, so a new release shows up the first time you open the app after it&#x27;s out. The Mac also keeps checking once a day while the app stays open. Settings › Privacy turns the check off, as before.</li>
+<li>No change to your data (schema 31, as in 0.26.0).</li>
 </ul>
 <p><strong>Italiano</strong></p>
 <ul>
-<li>Nascondi il saldo di un solo conto: «Nascondi saldo» nel menu del conto, o l&#x27;interruttore nel suo foglio. Il saldo e i valori diventano puntini, e così ogni totale che lo comprende (il suo gruppo, il patrimonio, il portafoglio, la previsione), così non si ricava per differenza; i movimenti restano visibili. Un clic sui puntini li mostra per qualche secondo. La scelta resta nei tuoi dati: ogni computer sincronizzato nasconde gli stessi conti.</li>
-<li>Il resto di un acquisto pagato da due conti si può prendere solo da un conto in banca, dai contanti o da una carta di credito nella stessa valuta, non più da investimenti, fondo pensione o buoni.</li>
-<li>Un nuovo conto di buoni prende il nome dalla risposta a «Buoni o credito?»: «Buoni» o «Welfare».</li>
-<li>L&#x27;intervallo dei controvalori di un conto investimenti o di un fondo pensione ora dice «Ricordami di aggiornare i controvalori»: è un promemoria, niente si aggiorna da solo. Il pallino arancione nell&#x27;elenco dei conti dice quando li hai aggiornati, e cliccandolo si apre l&#x27;aggiornamento.</li>
-<li>Mac: tutti i fogli sono ridisegnati. In alto ciò di cui parlano (l&#x27;importo con la descrizione, o il nome accanto al suo badge); categoria, conto e giorno sono capsule su una fila («Trasporti», «Conto corrente», «Oggi»); le cifre che vanno insieme stanno in riquadri chiari. I fogli sono più larghi e più bassi, e su un 13&quot; non scorrono più.</li>
-<li>Mac: il pannello Dettagli è una colonna come l&#x27;anteprima del Finder, sotto la barra, e si allarga trascinandone il bordo; si apre e si chiude in modo fluido, con la lista che lo segue.</li>
-<li>Mac: «Nascondi saldi» non è più nella barra degli strumenti: è nel menu Vista (⇧⌘H), e Personalizza la barra strumenti lo rimette.</li>
-<li>Questa versione aggiorna i tuoi dati (schema 31): aggiorna Quadra su ogni computer che li sincronizza.</li>
+<li>Quadra cerca una nuova versione a ogni apertura, non più una volta al giorno: una nuova versione compare la prima volta che apri l&#x27;app dopo che è uscita. Sul Mac continua anche a controllare una volta al giorno se l&#x27;app resta aperta. Impostazioni › Privacy spegne il controllo, come prima.</li>
+<li>Nessun cambiamento ai tuoi dati (schema 31, come nella 0.26.0).</li>
 </ul></body>]]></description>
-            <enclosure url="https://github.com/valepasse/PersonalFinance-releases/releases/download/v0.26.0/Quadra-0.26.0-macOS.zip" length="8592490" type="application/octet-stream" sparkle:edSignature="QfoEMBSKJ1eWkjohvawpzJt8/f35sPJq2NurXa+b9Fzp1eeQuUrV4S47QdlqzyVO9EW51wxHeCS+ZAcni4l3DQ=="/>
+            <enclosure url="https://github.com/valepasse/PersonalFinance-releases/releases/download/v0.26.1/Quadra-0.26.1-macOS.zip" length="8592791" type="application/octet-stream" sparkle:edSignature="AvOvfXfD2dzrBOnRhTuttMbjGagefw+S+r7GfEMoS3fAhU4d+UtsA8AMzcuGhU58PkmhzWXvSRvgytEoWAd6Cg=="/>
         </item>
     </channel>
 </rss>
