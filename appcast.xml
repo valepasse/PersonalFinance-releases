@@ -3,29 +3,25 @@
     <channel>
         <title>Quadra</title>
         <item>
-            <title>0.27.0</title>
-            <pubDate>Tue, 13 Oct 2026 10:27:14 +0200</pubDate>
-            <sparkle:version>0.27.0</sparkle:version>
-            <sparkle:shortVersionString>0.27.0</sparkle:shortVersionString>
+            <title>0.27.1</title>
+            <pubDate>Tue, 13 Oct 2026 12:15:41 +0200</pubDate>
+            <sparkle:version>0.27.1</sparkle:version>
+            <sparkle:shortVersionString>0.27.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<!doctype html><meta charset=utf-8><body style='font: 13px -apple-system'><h2>Quadra 0.27.0</h2>
+            <description><![CDATA[<!doctype html><meta charset=utf-8><body style='font: 13px -apple-system'><h2>Quadra 0.27.1</h2>
 <p><strong>English</strong></p>
 <ul>
-<li>The values of holdings with an ISIN or a ticker update by themselves each time Quadra opens, with online prices on: today&#x27;s price times the units, and the ends of the past months from the price history, as Update Values does. Values you typed always win, and the history keeps one value a month plus the latest. The reminder now only asks for what has no price online (bonds without an ISIN, funds at a bank, a pension fund).</li>
-<li>A new pension fund asks for no balance nor date: right after you create it, Update from the Fund opens to enter its value and what was paid in.</li>
-<li>The pension fund page shows what counts toward the deduction ceiling this year (your contributions and your employer&#x27;s, TFR excluded) against the ceiling, with a note that it&#x27;s an estimate: the official figure is on the Certificazione Unica. The ceiling, 5,300 € from 2026, is in Settings (730 on the Mac): change it when the law does.</li>
-<li>Mac: the pension fund page is laid out anew: the value with the day of the last update and what it counts since, who paid in as one colored bar, the chart beside it, and updates and contributions in one history.</li>
-<li>This version updates your data (schema 32): update Quadra on every computer that syncs it.</li>
+<li>Pension fund: the contributions an update works out are shown inside that update (&quot;New contributions: By you … · TFR …&quot;) instead of as entries of their own, which repeated it. The contributions you add by hand stay as entries.</li>
+<li>Mac: the pension fund card holds figures only. Update from the Fund is in the toolbar, highlighted when it&#x27;s time to update; the day of the last update reads &quot;as of 31 May&quot;, orange when due; the explanations are in tooltips; the deduction ceiling is one line with a thin bar. The share in equity is edited in the fund&#x27;s account form (Edit…).</li>
+<li>No change to your data (schema 32, as in 0.27.0).</li>
 </ul>
 <p><strong>Italiano</strong></p>
 <ul>
-<li>I controvalori dei titoli con ISIN o ticker si aggiornano da soli a ogni apertura di Quadra, con i prezzi online accesi: prezzo di oggi per le quote, e i valori di fine mese passati dallo storico dei prezzi, come fa Aggiorna controvalori. I valori scritti da te restano sempre, e lo storico tiene un valore al mese più l&#x27;ultimo. Il promemoria ora chiede solo quello che non ha un prezzo online (obbligazioni senza ISIN, fondi della banca, fondo pensione).</li>
-<li>Un nuovo fondo pensione non chiede saldo né data: appena creato si apre Aggiorna dal fondo per inserire il valore e quanto è stato versato.</li>
-<li>La pagina del fondo pensione mostra quanto conta quest&#x27;anno per il tetto di deducibilità (i tuoi versamenti e quelli del datore di lavoro, TFR escluso) rispetto al tetto, con la nota che è una stima: il dato ufficiale è nella Certificazione Unica. Il tetto, 5.300 € dal 2026, è nelle Impostazioni (730 sul Mac): cambialo quando lo cambia la legge.</li>
-<li>Mac: la pagina del fondo pensione è ridisegnata: il valore con il giorno dell&#x27;ultimo aggiornamento e quanto comprende dopo, chi ha versato in una barra a colori, il grafico accanto, aggiornamenti e versamenti in un solo storico.</li>
-<li>Questa versione aggiorna i tuoi dati (schema 32): aggiorna Quadra su ogni computer che li sincronizza.</li>
+<li>Fondo pensione: i versamenti che un aggiornamento ricava compaiono dentro l&#x27;aggiornamento («Nuovi versamenti: Da te … · TFR …») invece che come righe a sé, che lo ripetevano. I versamenti che aggiungi a mano restano righe proprie.</li>
+<li>Mac: la scheda del fondo pensione contiene solo cifre. Aggiorna dal fondo è nella barra in alto, in evidenza quando è ora di aggiornare; il giorno dell&#x27;ultimo aggiornamento dice «al 31 mag», in arancione quando serve; le spiegazioni compaiono passando il puntatore; il tetto di deducibilità è una riga con una barra sottile. La quota azionaria si modifica nel foglio del conto del fondo (Modifica…).</li>
+<li>Nessun cambiamento ai tuoi dati (schema 32, come nella 0.27.0).</li>
 </ul></body>]]></description>
-            <enclosure url="https://github.com/valepasse/PersonalFinance-releases/releases/download/v0.27.0/Quadra-0.27.0-macOS.zip" length="8645292" type="application/octet-stream" sparkle:edSignature="9PCpOyIyDzbEEe8Xz/ag/of8duOcp+EbuhdTpcnSv1Az5rKx1Bf1IVc1skYVRfymmZ6lBf+stFbpXegSg82xAw=="/>
+            <enclosure url="https://github.com/valepasse/PersonalFinance-releases/releases/download/v0.27.1/Quadra-0.27.1-macOS.zip" length="8650916" type="application/octet-stream" sparkle:edSignature="mw/IbsgxCYWVhadckeN6akWdWnWW6wSZozbC67wHZOit/VW97lfZ6meN1H7kTt27U1045PBOGgSWYJhzrQW0Dg=="/>
         </item>
     </channel>
 </rss>
