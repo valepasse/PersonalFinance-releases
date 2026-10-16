@@ -3,18 +3,18 @@
     <channel>
         <title>Quadra</title>
         <item>
-            <title>0.28.0</title>
-            <pubDate>Fri, 16 Oct 2026 17:41:31 +0200</pubDate>
-            <sparkle:version>0.28.0</sparkle:version>
-            <sparkle:shortVersionString>0.28.0</sparkle:shortVersionString>
+            <title>0.29.0</title>
+            <pubDate>Fri, 16 Oct 2026 18:05:44 +0200</pubDate>
+            <sparkle:version>0.29.0</sparkle:version>
+            <sparkle:shortVersionString>0.29.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<!doctype html><meta charset=utf-8><body style='font: 13px -apple-system'><h2>Quadra 0.28.0</h2>
+            <description><![CDATA[<!doctype html><meta charset=utf-8><body style='font: 13px -apple-system'><h2>Quadra 0.29.0</h2>
 <ul>
-<li>Fondo pensione: sotto il guadagno compare il rendimento annuo («Annuo: +3,1%»). Conta ogni versamento per il tempo che è rimasto nel fondo, a partire dal primo aggiornamento; compare quando gli aggiornamenti coprono un anno. Per vederlo subito, aggiungi un aggiornamento di un anno fa, dalla comunicazione periodica del fondo.</li>
-<li>Quadra è solo in italiano: anche su un computer impostato in un&#x27;altra lingua, testi, menu e nomi di mesi e giorni sono in italiano.</li>
-<li>Nessun cambiamento ai tuoi dati (schema 32, come nella 0.27.0).</li>
+<li>Previsioni: le ipotesi di un conto investimenti o di un fondo pensione partono dai tuoi dati invece che da zero. Il versamento mensile è la media di quanto è entrato negli ultimi 12 mesi, dopo almeno 3 mesi di dati. Il rendimento annuo viene dal tuo storico quando copre 3 anni, prima dalla composizione: azioni 6%, obbligazioni 2,5% all&#x27;anno. Sotto ogni conto c&#x27;è scritto da dove viene la stima.</li>
+<li>Se imposti valori tuoi, restano tuoi: la stima compare accanto, e «Usa la stima» nel foglio Modifica… ti riporta al calcolo automatico. I conti che avevano già ipotesi diverse da zero le conservano.</li>
+<li>Questa versione aggiorna i tuoi dati (schema 33): aggiorna Quadra su ogni computer che li sincronizza.</li>
 </ul></body>]]></description>
-            <enclosure url="https://github.com/valepasse/PersonalFinance-releases/releases/download/v0.28.0/Quadra-0.28.0-macOS.zip" length="8522490" type="application/octet-stream" sparkle:edSignature="h2U4+MhN5MjwMkhA4GtrHsMIjVEHoKau1kXjmDHSEkkTapxl9qYNAx2h5CjGpAV9wjBILlpcBeHjPNU0Fn7pBg=="/>
+            <enclosure url="https://github.com/valepasse/PersonalFinance-releases/releases/download/v0.29.0/Quadra-0.29.0-macOS.zip" length="8553431" type="application/octet-stream" sparkle:edSignature="VgUtlx4Ky+TC7M+JoW1XTmSiwz9QWrKuU633R95lI5/X+delBehL/hvtTKnW5HiO5vk7aIlv89j7yrfTY5fzAw=="/>
         </item>
     </channel>
 </rss>
