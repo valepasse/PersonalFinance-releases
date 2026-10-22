@@ -3,20 +3,18 @@
     <channel>
         <title>Quadra</title>
         <item>
-            <title>0.34.4</title>
-            <pubDate>Thu, 22 Oct 2026 15:47:15 +0200</pubDate>
-            <sparkle:version>0.34.4</sparkle:version>
-            <sparkle:shortVersionString>0.34.4</sparkle:shortVersionString>
+            <title>0.34.5</title>
+            <pubDate>Thu, 22 Oct 2026 16:11:19 +0200</pubDate>
+            <sparkle:version>0.34.5</sparkle:version>
+            <sparkle:shortVersionString>0.34.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<!doctype html><meta charset=utf-8><body style='font: 13px -apple-system'><h2>Quadra 0.34.4</h2>
+            <description><![CDATA[<!doctype html><meta charset=utf-8><body style='font: 13px -apple-system'><h2>Quadra 0.34.5</h2>
 <ul>
-<li>Pagando con i buoni pasto, l&#x27;importo si riempie da solo con il valore dei buoni scelti (2 da 9 € fanno 18 €) anche quando il campo è appena stato aperto; un importo scritto a mano resta com&#x27;è.</li>
-<li>Una spesa pagata con i buoni, o divisa tra due conti, può avere una parte pagata per altri («Una parte la devono restituire altri», in «Altre opzioni»): la categoria conta solo la tua parte e il rimborso si registra come per le altre spese anticipate.</li>
-<li>Il rimborso di una spesa pagata con i buoni propone come conto d&#x27;arrivo il conto in banca, non il fondo pensione.</li>
+<li>L&#x27;importo grande in cima ai moduli (movimento, rimborso, compravendita, versamento, buoni) non esce più tagliato a metà quando il modulo si apre: il campo ha il suo carattere grande fin dall&#x27;inizio, qualunque cosa si apra prima.</li>
 <li>Windows: nessun cambiamento.</li>
-<li>Nessun cambiamento ai tuoi dati (schema 37, come nella 0.34.3).</li>
+<li>Nessun cambiamento ai tuoi dati (schema 37, come nella 0.34.4).</li>
 </ul></body>]]></description>
-            <enclosure url="https://github.com/valepasse/PersonalFinance-releases/releases/download/v0.34.4/Quadra-0.34.4-macOS.zip" length="9524046" type="application/octet-stream" sparkle:edSignature="arvvIQO/YpUMfrO8AI6BVE0f/mErRZ3EMl25keAL0Z8Uq0/ixWd62FwIQIcew82+JyU39mD1lycxdVw8J63aDw=="/>
+            <enclosure url="https://github.com/valepasse/PersonalFinance-releases/releases/download/v0.34.5/Quadra-0.34.5-macOS.zip" length="9529513" type="application/octet-stream" sparkle:edSignature="MGEdI3s6JR4iXbJoKs5ASnOepdZUv8IA8kdnjV0Pb0teaq3z8aU09rl49TjewCR2rapdV1ZkrET8G4k8Wt5zBg=="/>
         </item>
     </channel>
 </rss>
