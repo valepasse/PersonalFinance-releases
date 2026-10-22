@@ -3,21 +3,18 @@
     <channel>
         <title>Quadra</title>
         <item>
-            <title>0.34.2</title>
-            <pubDate>Thu, 22 Oct 2026 15:05:32 +0200</pubDate>
-            <sparkle:version>0.34.2</sparkle:version>
-            <sparkle:shortVersionString>0.34.2</sparkle:shortVersionString>
+            <title>0.34.3</title>
+            <pubDate>Thu, 22 Oct 2026 15:18:18 +0200</pubDate>
+            <sparkle:version>0.34.3</sparkle:version>
+            <sparkle:shortVersionString>0.34.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<!doctype html><meta charset=utf-8><body style='font: 13px -apple-system'><h2>Quadra 0.34.2</h2>
+            <description><![CDATA[<!doctype html><meta charset=utf-8><body style='font: 13px -apple-system'><h2>Quadra 0.34.3</h2>
 <ul>
-<li>Mac: il nuovo movimento non sceglie più un conto da solo. Aperto da «Movimenti» o dal «Riepilogo», il conto va scelto prima di salvare; aperto dalla pagina di un conto, parte da quel conto. Con un solo conto resta automatico.</li>
-<li>Mac: «Salva e nuovo» fa ripartire il movimento successivo senza conto, invece di tenere quello appena usato.</li>
-<li>Mac: i buoni pasto non accettano più trasferimenti: si spendono, non si spostano su un altro conto. Il welfare continua ad accettarli (per esempio verso il fondo pensione).</li>
-<li>Mac: aperto dalla pagina di un fondo pensione, il versamento parte da un conto da cui si può trasferire denaro, mai dai buoni pasto.</li>
+<li>I buoni che avevi già quando hai creato il conto non compaiono più in «Movimenti», come non compare il saldo iniziale di un conto in banca: restano nella pagina del conto dei buoni, dove formano il saldo. I buoni ricevuti con lo stipendio restano in «Movimenti», perché sono un&#x27;entrata.</li>
 <li>Windows: nessun cambiamento.</li>
-<li>Nessun cambiamento ai tuoi dati (schema 37, come nella 0.34.1).</li>
+<li>Nessun cambiamento ai tuoi dati (schema 37, come nella 0.34.2).</li>
 </ul></body>]]></description>
-            <enclosure url="https://github.com/valepasse/PersonalFinance-releases/releases/download/v0.34.2/Quadra-0.34.2-macOS.zip" length="9523914" type="application/octet-stream" sparkle:edSignature="I85h5UItZEVE4S8Evgn4YNzX7DxP8z6ZGSXdplaLRc4mytqmJNIdfmmxUMkOuNSAjWsjrM0pjm9sbUb8U/XMBA=="/>
+            <enclosure url="https://github.com/valepasse/PersonalFinance-releases/releases/download/v0.34.3/Quadra-0.34.3-macOS.zip" length="9523916" type="application/octet-stream" sparkle:edSignature="tMknKnxDDm6RYFkKVu1TuSxkiam1Ch+mstRu9kzf6rmjRNhKNb13Fk+HR874bnDsEYsEqwl+Xu4CVZmEuerrCA=="/>
         </item>
     </channel>
 </rss>
