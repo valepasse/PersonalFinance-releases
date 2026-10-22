@@ -3,20 +3,21 @@
     <channel>
         <title>Quadra</title>
         <item>
-            <title>0.34.1</title>
-            <pubDate>Thu, 22 Oct 2026 13:08:52 +0200</pubDate>
-            <sparkle:version>0.34.1</sparkle:version>
-            <sparkle:shortVersionString>0.34.1</sparkle:shortVersionString>
+            <title>0.34.2</title>
+            <pubDate>Thu, 22 Oct 2026 15:05:32 +0200</pubDate>
+            <sparkle:version>0.34.2</sparkle:version>
+            <sparkle:shortVersionString>0.34.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<!doctype html><meta charset=utf-8><body style='font: 13px -apple-system'><h2>Quadra 0.34.1</h2>
+            <description><![CDATA[<!doctype html><meta charset=utf-8><body style='font: 13px -apple-system'><h2>Quadra 0.34.2</h2>
 <ul>
-<li>Mac: l&#x27;importo grande delle schede non appare più tagliato a metà quando la scheda si apre.</li>
-<li>Mac: il simbolo della valuta sta dentro il campo dell&#x27;importo grande, «0,00 €» in un unico blocco, con «Importo» centrato sopra.</li>
-<li>Mac: nel nuovo movimento, un tipo che il conto non accetta (per esempio un&#x27;entrata sui buoni pasto) è disattivato e il suggerimento spiega perché, invece di cambiare conto senza dirlo.</li>
+<li>Mac: il nuovo movimento non sceglie più un conto da solo. Aperto da «Movimenti» o dal «Riepilogo», il conto va scelto prima di salvare; aperto dalla pagina di un conto, parte da quel conto. Con un solo conto resta automatico.</li>
+<li>Mac: «Salva e nuovo» fa ripartire il movimento successivo senza conto, invece di tenere quello appena usato.</li>
+<li>Mac: i buoni pasto non accettano più trasferimenti: si spendono, non si spostano su un altro conto. Il welfare continua ad accettarli (per esempio verso il fondo pensione).</li>
+<li>Mac: aperto dalla pagina di un fondo pensione, il versamento parte da un conto da cui si può trasferire denaro, mai dai buoni pasto.</li>
 <li>Windows: nessun cambiamento.</li>
-<li>Nessun cambiamento ai tuoi dati (schema 37, come nella 0.34.0).</li>
+<li>Nessun cambiamento ai tuoi dati (schema 37, come nella 0.34.1).</li>
 </ul></body>]]></description>
-            <enclosure url="https://github.com/valepasse/PersonalFinance-releases/releases/download/v0.34.1/Quadra-0.34.1-macOS.zip" length="9523498" type="application/octet-stream" sparkle:edSignature="w9OIeiARl9XLr0ncAI2djQKiyHMewrT64HMajA9d8BbFadvES/vfGBaCKa1PDlWGriyJzt4KzRUMQ5oL6LvLDQ=="/>
+            <enclosure url="https://github.com/valepasse/PersonalFinance-releases/releases/download/v0.34.2/Quadra-0.34.2-macOS.zip" length="9523914" type="application/octet-stream" sparkle:edSignature="I85h5UItZEVE4S8Evgn4YNzX7DxP8z6ZGSXdplaLRc4mytqmJNIdfmmxUMkOuNSAjWsjrM0pjm9sbUb8U/XMBA=="/>
         </item>
     </channel>
 </rss>
