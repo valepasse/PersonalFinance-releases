@@ -3,23 +3,19 @@
     <channel>
         <title>Quadra</title>
         <item>
-            <title>0.35.0</title>
-            <pubDate>Thu, 22 Oct 2026 17:30:56 +0200</pubDate>
-            <sparkle:version>0.35.0</sparkle:version>
-            <sparkle:shortVersionString>0.35.0</sparkle:shortVersionString>
+            <title>0.35.1</title>
+            <pubDate>Thu, 22 Oct 2026 18:05:27 +0200</pubDate>
+            <sparkle:version>0.35.1</sparkle:version>
+            <sparkle:shortVersionString>0.35.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<!doctype html><meta charset=utf-8><body style='font: 13px -apple-system'><h2>Quadra 0.35.0</h2>
+            <description><![CDATA[<!doctype html><meta charset=utf-8><body style='font: 13px -apple-system'><h2>Quadra 0.35.1</h2>
 <ul>
-<li>Tutti i moduli hanno un aspetto nuovo, come la scheda di un evento in Calendario: su fondo bianco, una riga per ogni cosa con il nome a sinistra e il valore a destra, sempre nello stesso posto. Niente più capsule centrate né riquadri grigi.</li>
-<li>Nel movimento il conto viene per primo, e i buoni pasto compaiono subito sotto il conto che li contiene.</li>
-<li>&quot;Dividi tra due conti&quot; e &quot;Una parte la devono restituire altri&quot; sono interruttori: accesi mostrano i loro campi, spenti li tolgono. Non c&#x27;è più il pulsante &quot;Altre opzioni&quot;.</li>
-<li>Essenziale o no si legge accanto alla categoria (&quot;Pasti · Essenziale&quot;) e si cambia dal menu della categoria.</li>
-<li>I campi in cui scrivi hanno tutti la stessa larghezza, e i menu (conto, categoria, data, tipo, valuta…) sono valori in chiaro invece di pulsanti grigi.</li>
-<li>L&#x27;importo grande non ha più il bordo azzurro intorno.</li>
+<li>I movimenti collegati si riconoscono a colpo d&#x27;occhio: sotto un rimborso c&#x27;è la spesa che rimborsa (&quot;rimborso di «Pranzo lavoro», 2 set&quot;), sotto una spesa pagata in parte per altri quanto ti devono ancora (&quot;8,50 € per altri, rimborsati&quot;).</li>
+<li>Selezionando un movimento, quelli collegati si colorano d&#x27;azzurro chiaro, come Mail fa con i messaggi di una conversazione: il rimborso della spesa, la spesa del rimborso, l&#x27;altra parte di una spesa divisa tra due conti.</li>
 <li>Windows: nessun cambiamento.</li>
-<li>Nessun cambiamento ai tuoi dati (schema 37, come nella 0.34.6).</li>
+<li>Nessun cambiamento ai tuoi dati (schema 37, come nella 0.35.0).</li>
 </ul></body>]]></description>
-            <enclosure url="https://github.com/valepasse/PersonalFinance-releases/releases/download/v0.35.0/Quadra-0.35.0-macOS.zip" length="9546646" type="application/octet-stream" sparkle:edSignature="VOtw1386sFRV+bQBZFB/CjRqg0BX1ItAJ3F+OF3zDaXzjFK7F5GSAlSo+dcA5d0/b74RSlqWo+o9h6qtsHWbBQ=="/>
+            <enclosure url="https://github.com/valepasse/PersonalFinance-releases/releases/download/v0.35.1/Quadra-0.35.1-macOS.zip" length="9570615" type="application/octet-stream" sparkle:edSignature="wyr2BwU20nbqM8jUuaCZiMwlTr6Zo/iIxrm/6eBH3wkvwLWFVlKfSfd+a3V0QLgFDTxZ0Ocm3114wLG+d093CQ=="/>
         </item>
     </channel>
 </rss>
