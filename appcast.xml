@@ -3,18 +3,18 @@
     <channel>
         <title>Quadra</title>
         <item>
-            <title>0.34.5</title>
-            <pubDate>Thu, 22 Oct 2026 16:11:19 +0200</pubDate>
-            <sparkle:version>0.34.5</sparkle:version>
-            <sparkle:shortVersionString>0.34.5</sparkle:shortVersionString>
+            <title>0.34.6</title>
+            <pubDate>Thu, 22 Oct 2026 16:37:08 +0200</pubDate>
+            <sparkle:version>0.34.6</sparkle:version>
+            <sparkle:shortVersionString>0.34.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<!doctype html><meta charset=utf-8><body style='font: 13px -apple-system'><h2>Quadra 0.34.5</h2>
+            <description><![CDATA[<!doctype html><meta charset=utf-8><body style='font: 13px -apple-system'><h2>Quadra 0.34.6</h2>
 <ul>
-<li>L&#x27;importo grande in cima ai moduli (movimento, rimborso, compravendita, versamento, buoni) non esce più tagliato a metà quando il modulo si apre: il campo ha il suo carattere grande fin dall&#x27;inizio, qualunque cosa si apra prima.</li>
-<li>Windows: nessun cambiamento.</li>
-<li>Nessun cambiamento ai tuoi dati (schema 37, come nella 0.34.4).</li>
+<li>Eliminando una spesa pagata in parte per altri si elimina anche il suo rimborso: prima il rimborso restava e «Da ricevere» andava sotto zero, come se fossi tu a dover dei soldi. L&#x27;avviso lo dice, e Annulla riporta indietro tutti e due.</li>
+<li>Windows: con il prossimo aggiornamento farà lo stesso.</li>
+<li>Nessun cambiamento ai tuoi dati (schema 37, come nella 0.34.5).</li>
 </ul></body>]]></description>
-            <enclosure url="https://github.com/valepasse/PersonalFinance-releases/releases/download/v0.34.5/Quadra-0.34.5-macOS.zip" length="9529513" type="application/octet-stream" sparkle:edSignature="MGEdI3s6JR4iXbJoKs5ASnOepdZUv8IA8kdnjV0Pb0teaq3z8aU09rl49TjewCR2rapdV1ZkrET8G4k8Wt5zBg=="/>
+            <enclosure url="https://github.com/valepasse/PersonalFinance-releases/releases/download/v0.34.6/Quadra-0.34.6-macOS.zip" length="9529612" type="application/octet-stream" sparkle:edSignature="PGHH1BD7Ted4hsoSb0i1sWHBUHQ7eyElQtTAeRzoAePAvGpUeg5/EkCc4e4euiXiBsKf2NY2e9uZal3O3NvyCw=="/>
         </item>
     </channel>
 </rss>
