@@ -3,18 +3,21 @@
     <channel>
         <title>Quadra</title>
         <item>
-            <title>0.35.7</title>
-            <pubDate>Fri, 23 Oct 2026 12:46:12 +0200</pubDate>
-            <sparkle:version>0.35.7</sparkle:version>
-            <sparkle:shortVersionString>0.35.7</sparkle:shortVersionString>
+            <title>0.35.8</title>
+            <pubDate>Fri, 23 Oct 2026 15:27:45 +0200</pubDate>
+            <sparkle:version>0.35.8</sparkle:version>
+            <sparkle:shortVersionString>0.35.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<!doctype html><meta charset=utf-8><body style='font: 13px -apple-system'><h2>Quadra 0.35.7</h2>
+            <description><![CDATA[<!doctype html><meta charset=utf-8><body style='font: 13px -apple-system'><h2>Quadra 0.35.8</h2>
 <ul>
-<li>Su un conto di buoni, il + apre un modulo con un selettore in alto: &quot;Registra spesa&quot; o &quot;Aggiungi buoni&quot; (&quot;Aggiungi credito&quot; per il welfare). Se hai premuto + per aggiungere buoni, basta scegliere &quot;Aggiungi buoni&quot;, senza chiudere e ricominciare. Anche &quot;Aggiungi buoni…&quot; mostra lo stesso selettore, per tornare alla spesa.</li>
+<li>Pagando con i buoni pasto, scegli quanti buoni usi per ogni taglio, non per ogni lotto: Quadra prende da sé quelli che scadono prima. Sotto ogni taglio vedi quanti ne restano per ciascuna scadenza.</li>
+<li>Nella pagina di un conto, il menu Filtri mostra solo le categorie usate in quel conto, e il tipo di movimento solo se ce n&#x27;è più di uno. Sui conti di buoni non c&#x27;è più la scelta tra spese, entrate e trasferimenti.</li>
+<li>Accanto ai lotti di buoni non c&#x27;è più &quot;Aggiungi buoni…&quot;: il + in alto apre il modulo con il selettore &quot;Aggiungi buoni&quot;, e il comando è anche nel menu Conto.</li>
+<li>Tolto &quot;Chiedi ai tuoi movimenti&quot;: Apple Intelligence capiva male le domande (per esempio non riconosceva il conto dei buoni pasto). Per cercare restano il campo di ricerca e i filtri.</li>
 <li>Windows: non ancora, arriva con una delle prossime versioni.</li>
-<li>Nessun cambiamento ai tuoi dati (schema 37, come nella 0.35.6).</li>
+<li>Nessun cambiamento ai tuoi dati (schema 37, come nella 0.35.7).</li>
 </ul></body>]]></description>
-            <enclosure url="https://github.com/valepasse/PersonalFinance-releases/releases/download/v0.35.7/Quadra-0.35.7-macOS.zip" length="9598686" type="application/octet-stream" sparkle:edSignature="FFifE2o5AWv1BTYyXh9d0PSPMdePAentGmYRntjoRgvt9lhmqhFyCCQnLMmBeq6qk89NUcNjMIpI3VjtqEGmCw=="/>
+            <enclosure url="https://github.com/valepasse/PersonalFinance-releases/releases/download/v0.35.8/Quadra-0.35.8-macOS.zip" length="9523265" type="application/octet-stream" sparkle:edSignature="UNnQ3Zn700gTTHvTvynS0flv0kRLb84Y16ul+1aOHlZQwTFWny/4+5Cy9l9YdIjCSiDWb5GuqCGuDEbvPLqXDQ=="/>
         </item>
     </channel>
 </rss>
