@@ -3,18 +3,19 @@
     <channel>
         <title>Quadra</title>
         <item>
-            <title>0.35.4</title>
-            <pubDate>Fri, 23 Oct 2026 10:44:39 +0200</pubDate>
-            <sparkle:version>0.35.4</sparkle:version>
-            <sparkle:shortVersionString>0.35.4</sparkle:shortVersionString>
+            <title>0.35.5</title>
+            <pubDate>Fri, 23 Oct 2026 11:53:27 +0200</pubDate>
+            <sparkle:version>0.35.5</sparkle:version>
+            <sparkle:shortVersionString>0.35.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<!doctype html><meta charset=utf-8><body style='font: 13px -apple-system'><h2>Quadra 0.35.4</h2>
+            <description><![CDATA[<!doctype html><meta charset=utf-8><body style='font: 13px -apple-system'><h2>Quadra 0.35.5</h2>
 <ul>
-<li>Il pulsante &quot;+&quot; in alto, e gli altri pulsanti evidenziati della barra (Nuova categoria, Aggiorna valori), hanno ora la stessa altezza dei pulsanti accanto, senza il bordo più scuro che li faceva sembrare appiccicati sopra.</li>
+<li>Una spesa deve sempre avere una categoria: nel modulo non c&#x27;è più &quot;Nessuna&quot; tra le categorie di una spesa, e &quot;Salva&quot; resta disattivato finché non ne scegli una. Le entrate possono ancora restare senza categoria.</li>
+<li>Le spese già registrate senza categoria restano come sono; quando ne modifichi una nel modulo, ti chiede di sceglierla.</li>
 <li>Windows: nessun cambiamento.</li>
-<li>Nessun cambiamento ai tuoi dati (schema 37, come nella 0.35.3).</li>
+<li>Nessun cambiamento ai tuoi dati (schema 37, come nella 0.35.4).</li>
 </ul></body>]]></description>
-            <enclosure url="https://github.com/valepasse/PersonalFinance-releases/releases/download/v0.35.4/Quadra-0.35.4-macOS.zip" length="9577369" type="application/octet-stream" sparkle:edSignature="8CJvBsipoyx/x4SRuiM12LHl59HpDBOTKesa5ywaA0ZyLrlf2ro399wg/k033XTJ2QYwh6qkWxiVltAxd2ekBg=="/>
+            <enclosure url="https://github.com/valepasse/PersonalFinance-releases/releases/download/v0.35.5/Quadra-0.35.5-macOS.zip" length="9577813" type="application/octet-stream" sparkle:edSignature="YqJJsx2ZeDpRiL6dlF6l6b9NBFEq/p01aPofLqcrtweQA+FaDjeEwocsHhfMhWhBKa/ct0PajIaj9T5q498DBw=="/>
         </item>
     </channel>
 </rss>
