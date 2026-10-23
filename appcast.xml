@@ -3,19 +3,19 @@
     <channel>
         <title>Quadra</title>
         <item>
-            <title>0.35.1</title>
-            <pubDate>Thu, 22 Oct 2026 18:05:27 +0200</pubDate>
-            <sparkle:version>0.35.1</sparkle:version>
-            <sparkle:shortVersionString>0.35.1</sparkle:shortVersionString>
+            <title>0.35.2</title>
+            <pubDate>Fri, 23 Oct 2026 10:18:43 +0200</pubDate>
+            <sparkle:version>0.35.2</sparkle:version>
+            <sparkle:shortVersionString>0.35.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<!doctype html><meta charset=utf-8><body style='font: 13px -apple-system'><h2>Quadra 0.35.1</h2>
+            <description><![CDATA[<!doctype html><meta charset=utf-8><body style='font: 13px -apple-system'><h2>Quadra 0.35.2</h2>
 <ul>
-<li>I movimenti collegati si riconoscono a colpo d&#x27;occhio: sotto un rimborso c&#x27;è la spesa che rimborsa (&quot;rimborso di «Pranzo lavoro», 2 set&quot;), sotto una spesa pagata in parte per altri quanto ti devono ancora (&quot;8,50 € per altri, rimborsati&quot;).</li>
-<li>Selezionando un movimento, quelli collegati si colorano d&#x27;azzurro chiaro, come Mail fa con i messaggi di una conversazione: il rimborso della spesa, la spesa del rimborso, l&#x27;altra parte di una spesa divisa tra due conti.</li>
+<li>Nei dettagli di un rimborso, &quot;Rimborso di&quot; nomina la spesa che rimborsa; nei dettagli della spesa, &quot;Rimborsi&quot; elenca i suoi rimborsi. Un clic seleziona il movimento collegato. Anche &quot;Pagato anche da&quot;, in una spesa divisa tra due conti, porta all&#x27;altra parte.</li>
+<li>La colorazione dei movimenti collegati ha ora esattamente la forma della selezione, con gli stessi angoli arrotondati, sia nella tabella sia nella lista.</li>
 <li>Windows: nessun cambiamento.</li>
-<li>Nessun cambiamento ai tuoi dati (schema 37, come nella 0.35.0).</li>
+<li>Nessun cambiamento ai tuoi dati (schema 37, come nella 0.35.1).</li>
 </ul></body>]]></description>
-            <enclosure url="https://github.com/valepasse/PersonalFinance-releases/releases/download/v0.35.1/Quadra-0.35.1-macOS.zip" length="9570615" type="application/octet-stream" sparkle:edSignature="wyr2BwU20nbqM8jUuaCZiMwlTr6Zo/iIxrm/6eBH3wkvwLWFVlKfSfd+a3V0QLgFDTxZ0Ocm3114wLG+d093CQ=="/>
+            <enclosure url="https://github.com/valepasse/PersonalFinance-releases/releases/download/v0.35.2/Quadra-0.35.2-macOS.zip" length="9577104" type="application/octet-stream" sparkle:edSignature="IEgtibIlaZ0Y4/uo2jw3pbCR1YV4Xdg38FRf4Un3t6S3ePoPl3BEcvsrxQ0do4nkRCe6sHWUrxDjPfZq5re1Cg=="/>
         </item>
     </channel>
 </rss>
