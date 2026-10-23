@@ -3,21 +3,18 @@
     <channel>
         <title>Quadra</title>
         <item>
-            <title>0.35.3</title>
-            <pubDate>Fri, 23 Oct 2026 10:37:58 +0200</pubDate>
-            <sparkle:version>0.35.3</sparkle:version>
-            <sparkle:shortVersionString>0.35.3</sparkle:shortVersionString>
+            <title>0.35.4</title>
+            <pubDate>Fri, 23 Oct 2026 10:44:39 +0200</pubDate>
+            <sparkle:version>0.35.4</sparkle:version>
+            <sparkle:shortVersionString>0.35.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<!doctype html><meta charset=utf-8><body style='font: 13px -apple-system'><h2>Quadra 0.35.3</h2>
+            <description><![CDATA[<!doctype html><meta charset=utf-8><body style='font: 13px -apple-system'><h2>Quadra 0.35.4</h2>
 <ul>
-<li>Un nuovo movimento non ha più la data preimpostata a oggi: è obbligatoria e la scegli tu, comodo quando registri le spese a fine settimana.</li>
-<li>La riga Data apre subito il calendario, senza il menu Oggi / Ieri / Inizio del mese, e un clic su un giorno lo chiude.</li>
-<li>Nel modulo la data viene subito dopo il conto, prima della categoria.</li>
-<li>&quot;Salva e nuovo&quot; svuota tutto il modulo: resta solo il conto se lo hai aperto dalla pagina di un conto, altrimenti nemmeno quello.</li>
+<li>Il pulsante &quot;+&quot; in alto, e gli altri pulsanti evidenziati della barra (Nuova categoria, Aggiorna valori), hanno ora la stessa altezza dei pulsanti accanto, senza il bordo più scuro che li faceva sembrare appiccicati sopra.</li>
 <li>Windows: nessun cambiamento.</li>
-<li>Nessun cambiamento ai tuoi dati (schema 37, come nella 0.35.2).</li>
+<li>Nessun cambiamento ai tuoi dati (schema 37, come nella 0.35.3).</li>
 </ul></body>]]></description>
-            <enclosure url="https://github.com/valepasse/PersonalFinance-releases/releases/download/v0.35.3/Quadra-0.35.3-macOS.zip" length="9577987" type="application/octet-stream" sparkle:edSignature="9qKulKENpGE9/HIv+Nkil9UNB636odsnOiZiy4so9Za2asU73p925y9+Cm2oLXQ426WQ4XjNhEQxnj8On/P2Cw=="/>
+            <enclosure url="https://github.com/valepasse/PersonalFinance-releases/releases/download/v0.35.4/Quadra-0.35.4-macOS.zip" length="9577369" type="application/octet-stream" sparkle:edSignature="8CJvBsipoyx/x4SRuiM12LHl59HpDBOTKesa5ywaA0ZyLrlf2ro399wg/k033XTJ2QYwh6qkWxiVltAxd2ekBg=="/>
         </item>
     </channel>
 </rss>
