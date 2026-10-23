@@ -3,19 +3,21 @@
     <channel>
         <title>Quadra</title>
         <item>
-            <title>0.35.2</title>
-            <pubDate>Fri, 23 Oct 2026 10:18:43 +0200</pubDate>
-            <sparkle:version>0.35.2</sparkle:version>
-            <sparkle:shortVersionString>0.35.2</sparkle:shortVersionString>
+            <title>0.35.3</title>
+            <pubDate>Fri, 23 Oct 2026 10:37:58 +0200</pubDate>
+            <sparkle:version>0.35.3</sparkle:version>
+            <sparkle:shortVersionString>0.35.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<!doctype html><meta charset=utf-8><body style='font: 13px -apple-system'><h2>Quadra 0.35.2</h2>
+            <description><![CDATA[<!doctype html><meta charset=utf-8><body style='font: 13px -apple-system'><h2>Quadra 0.35.3</h2>
 <ul>
-<li>Nei dettagli di un rimborso, &quot;Rimborso di&quot; nomina la spesa che rimborsa; nei dettagli della spesa, &quot;Rimborsi&quot; elenca i suoi rimborsi. Un clic seleziona il movimento collegato. Anche &quot;Pagato anche da&quot;, in una spesa divisa tra due conti, porta all&#x27;altra parte.</li>
-<li>La colorazione dei movimenti collegati ha ora esattamente la forma della selezione, con gli stessi angoli arrotondati, sia nella tabella sia nella lista.</li>
+<li>Un nuovo movimento non ha più la data preimpostata a oggi: è obbligatoria e la scegli tu, comodo quando registri le spese a fine settimana.</li>
+<li>La riga Data apre subito il calendario, senza il menu Oggi / Ieri / Inizio del mese, e un clic su un giorno lo chiude.</li>
+<li>Nel modulo la data viene subito dopo il conto, prima della categoria.</li>
+<li>&quot;Salva e nuovo&quot; svuota tutto il modulo: resta solo il conto se lo hai aperto dalla pagina di un conto, altrimenti nemmeno quello.</li>
 <li>Windows: nessun cambiamento.</li>
-<li>Nessun cambiamento ai tuoi dati (schema 37, come nella 0.35.1).</li>
+<li>Nessun cambiamento ai tuoi dati (schema 37, come nella 0.35.2).</li>
 </ul></body>]]></description>
-            <enclosure url="https://github.com/valepasse/PersonalFinance-releases/releases/download/v0.35.2/Quadra-0.35.2-macOS.zip" length="9577104" type="application/octet-stream" sparkle:edSignature="IEgtibIlaZ0Y4/uo2jw3pbCR1YV4Xdg38FRf4Un3t6S3ePoPl3BEcvsrxQ0do4nkRCe6sHWUrxDjPfZq5re1Cg=="/>
+            <enclosure url="https://github.com/valepasse/PersonalFinance-releases/releases/download/v0.35.3/Quadra-0.35.3-macOS.zip" length="9577987" type="application/octet-stream" sparkle:edSignature="9qKulKENpGE9/HIv+Nkil9UNB636odsnOiZiy4so9Za2asU73p925y9+Cm2oLXQ426WQ4XjNhEQxnj8On/P2Cw=="/>
         </item>
     </channel>
 </rss>
