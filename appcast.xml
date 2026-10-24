@@ -3,21 +3,19 @@
     <channel>
         <title>Quadra</title>
         <item>
-            <title>0.36.0</title>
-            <pubDate>Sat, 24 Oct 2026 08:18:17 +0200</pubDate>
-            <sparkle:version>0.36.0</sparkle:version>
-            <sparkle:shortVersionString>0.36.0</sparkle:shortVersionString>
+            <title>0.36.1</title>
+            <pubDate>Sat, 24 Oct 2026 09:12:16 +0200</pubDate>
+            <sparkle:version>0.36.1</sparkle:version>
+            <sparkle:shortVersionString>0.36.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<!doctype html><meta charset=utf-8><body style='font: 13px -apple-system'><h2>Quadra 0.36.0</h2>
+            <description><![CDATA[<!doctype html><meta charset=utf-8><body style='font: 13px -apple-system'><h2>Quadra 0.36.1</h2>
 <ul>
-<li>La pagina di un conto di buoni pasto o welfare è nuova: in alto una scheda per ogni scadenza, con quanti buoni ti restano (o quanto credito), di quali tagli e tra quanti giorni scadono. Se al ritmo delle ultime settimane non riusciresti a usarli tutti in tempo, la scheda lo segnala e ti dice quanti ne servono a settimana.</li>
-<li>Sotto, i movimenti sono un elenco al posto della tabella, e le spese pagate con i buoni mostrano i buoni usati (&quot;-7 × 9,00 €&quot;), con gli euro sotto. Il titolo dice quanti buoni hai, poi quanto valgono.</li>
-<li>I comandi dei lotti (Modifica, Proroga, Registra come persi) sono nel menu &quot;…&quot; di ogni scheda e nel menu Conto.</li>
-<li>Su questi conti non c&#x27;è più il pannello dei dettagli: un doppio clic su un movimento lo apre.</li>
+<li>La pagina dei buoni pasto e del welfare riempie meglio una finestra larga: le schede delle scadenze stanno in una colonna a destra dell&#x27;elenco, e sotto c&#x27;è un grafico di quanti buoni hai usato ogni settimana (per il welfare, quanto hai speso ogni mese), con una linea tratteggiata che mostra il ritmo che serve per non perderli. In una finestra stretta le schede restano sopra l&#x27;elenco.</li>
+<li>Per il welfare il ritmo è calcolato al mese: &quot;servono circa 150 € al mese&quot;.</li>
 <li>Windows: non ancora, arriva con una delle prossime versioni.</li>
-<li>Nessun cambiamento ai tuoi dati (schema 37, come nella 0.35.8).</li>
+<li>Nessun cambiamento ai tuoi dati (schema 37, come nella 0.36.0).</li>
 </ul></body>]]></description>
-            <enclosure url="https://github.com/valepasse/PersonalFinance-releases/releases/download/v0.36.0/Quadra-0.36.0-macOS.zip" length="9563265" type="application/octet-stream" sparkle:edSignature="6AntNZXA2AWlxAUCHfcxcm6b7QrzTGKr18rLfU/1eUwURyzUllQOF2ckzY/6oFLwqQofLYO0Y0qjQ0WpF0vvDA=="/>
+            <enclosure url="https://github.com/valepasse/PersonalFinance-releases/releases/download/v0.36.1/Quadra-0.36.1-macOS.zip" length="9596111" type="application/octet-stream" sparkle:edSignature="5R9mFGXIgXGxIbgtV3BaFkvTRWKfH2cwtujPM54utDxhY1U0wcxrOviSTbg2HTT5KO5+vB0ga0+4d9iuwePMDw=="/>
         </item>
     </channel>
 </rss>
